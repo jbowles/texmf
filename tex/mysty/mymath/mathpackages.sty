@@ -1,0 +1,67 @@
+\ProvidesPackage{mathpackages}
+\usepackage{qtree,tree-dvips}
+\usepackage{graphicx,wrapfig}
+\usepackage[usenames,x11names]{xcolor}
+%\usepackage[safe]{tipa}
+\usepackage[normalem]{ulem}
+\usepackage{fancyhdr,ifpdf}
+\usepackage{makeidx}
+\lhead{\scriptsize Joshua Bowles} % force lhead all the way left
+\rhead{\scriptsize Page \thepage}  % put page number at right
+\chead{\scshape \scriptsize \ttfamily Last updated: \today}
+\cfoot{} % the footer is empty
+\pagestyle{fancy}
+
+
+
+%=================MATH=============================
+\usepackage{amsmath,amsfonts,amsthm}
+\usepackage{amssymb}
+      %\numberwithin{equation}{chapter}
+      \numberwithin{equation}{section}
+   \theoremstyle{definition}
+\newtheorem{theorem}{Theorem}
+   \newtheorem{acknowledgement}{Acknowledgement}
+   \newtheorem{algorithm}{Algorithm}
+   \newtheorem{axiom}{Axiom}
+   \newtheorem{case}{Case}
+   \newtheorem{claim}{Claim}
+   \newtheorem{conclusion}{Conclusion}
+   \newtheorem{condition}{Condition}
+   \newtheorem{conjecture}{Conjecture}
+   \newtheorem{corollary}{Corollary}
+   \newtheorem{criterion}{Criterion}
+   \newtheorem{definition}{Definition}
+   \newtheorem{exercise}{Exercise}
+   \newtheorem{law}{Law}
+   \newtheorem{lemma}{Lemma}
+   \newtheorem{problem}{Problem}
+   \newtheorem{property}{Property}
+   \newtheorem{proposition}{Proposition}
+   \newtheorem{remark}{Remark}
+   \newtheorem{summary}{Summary}
+   \newtheorem{phrase string}{Phrase String}
+   \newtheorem{notation}{Notation}
+   \newtheorem{maxim}{Maxim}
+   \newtheorem{solution}{Solution}
+      \theoremstyle{plain}
+	 \newtheorem{example}{Example}
+
+
+%From <sp.cl>=================
+\usepackage{natbib}
+%=============================
+\definecolor{jblinkcolor}{rgb}{.0,.2,.4}
+\usepackage[bookmarksdepth=3,colorlinks,
+			linkcolor=jblinkcolor,
+			citecolor=jblinkcolor,
+			urlcolor=jblinkcolor,
+			filecolor=jblinkcolor,
+			plainpages=false,
+			pdfpagelabels,
+			bookmarks=false,
+			pdfstartview=,
+			hyperfootnotes=false]{hyperref}			
+			\urlstyle{rm}			
+			%********************************************************************	
+%\usepackage{gb4e}-----NOT COMPATIBLE WITH \sum and \int commands----------------------

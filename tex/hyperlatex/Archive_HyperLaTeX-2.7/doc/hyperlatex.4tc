@@ -1,0 +1,86 @@
+\expandafter\ifx\csname doTocEntry\endcsname\relax \expandafter\endinput\fi
+\doTocEntry\tocsection{1}{\csname a:TocLink\endcsname{1}{x1-10001}{QQ2-1-1}{Introduction}}{3}\relax 
+\doTocEntry\tocsection{2}{\csname a:TocLink\endcsname{1}{x1-20002}{QQ2-1-2}{Using Hyperlatex}}{6}\relax 
+\doTocEntry\tocsection{3}{\csname a:TocLink\endcsname{1}{x1-30003}{QQ2-1-3}{About the Html output}}{7}\relax 
+\doTocEntry\tocsection{4}{\csname a:TocLink\endcsname{1}{x1-40004}{QQ2-1-4}{Trying it out}}{9}\relax 
+\doTocEntry\tocsection{5}{\csname a:TocLink\endcsname{1}{x1-50005}{QQ2-1-5}{Getting started}}{10}\relax 
+\doTocEntry\tocsubsection{5.1}{\csname a:TocLink\endcsname{1}{x1-60005.1}{QQ2-1-6}{Preparing an input file}}{10}\relax 
+\doTocEntry\tocsubsection{5.2}{\csname a:TocLink\endcsname{1}{x1-70005.2}{QQ2-1-7}{Dashes and Quotation marks}}{12}\relax 
+\doTocEntry\tocsubsection{5.3}{\csname a:TocLink\endcsname{1}{x1-80005.3}{QQ2-1-8}{Simple text generating commands}}{12}\relax 
+\doTocEntry\tocsubsection{5.4}{\csname a:TocLink\endcsname{1}{x1-90005.4}{QQ2-1-9}{Emphasizing Text}}{12}\relax 
+\doTocEntry\tocsubsection{5.5}{\csname a:TocLink\endcsname{1}{x1-100005.5}{QQ2-1-10}{Preventing line breaks}}{13}\relax 
+\doTocEntry\tocsubsection{5.6}{\csname a:TocLink\endcsname{1}{x1-110005.6}{QQ2-1-11}{Footnotes}}{13}\relax 
+\doTocEntry\tocsubsection{5.7}{\csname a:TocLink\endcsname{1}{x1-120005.7}{QQ2-1-12}{Formulas}}{13}\relax 
+\doTocEntry\tocsubsection{5.8}{\csname a:TocLink\endcsname{1}{x1-130005.8}{QQ2-1-13}{Ignorable input}}{14}\relax 
+\doTocEntry\tocsubsection{5.9}{\csname a:TocLink\endcsname{1}{x1-140005.9}{QQ2-1-14}{Document class}}{14}\relax 
+\doTocEntry\tocsubsection{5.10}{\csname a:TocLink\endcsname{1}{x1-150005.10}{QQ2-1-15}{Title page}}{14}\relax 
+\doTocEntry\tocsubsection{5.11}{\csname a:TocLink\endcsname{1}{x1-160005.11}{QQ2-1-16}{Sectioning}}{15}\relax 
+\doTocEntry\tocsubsection{5.12}{\csname a:TocLink\endcsname{1}{x1-170005.12}{QQ2-1-17}{Displayed material}}{17}\relax 
+\doTocEntry\tocsection{6}{\csname a:TocLink\endcsname{1}{x1-180006}{QQ2-1-18}{Conditional Compilation}}{17}\relax 
+\doTocEntry\tocsubsection{6.1}{\csname a:TocLink\endcsname{1}{x1-190006.1}{QQ2-1-19}{\textlatin  {\LaTeX  }{} versus Html mode}}{18}\relax 
+\doTocEntry\tocsubsection{6.2}{\csname a:TocLink\endcsname{1}{x1-200006.2}{QQ2-1-20}{Ignoring more input}}{23}\relax 
+\doTocEntry\tocsubsection{6.3}{\csname a:TocLink\endcsname{1}{x1-210006.3}{QQ2-1-21}{Flags --- more on conditional compilation}}{23}\relax 
+\doTocEntry\tocsection{7}{\csname a:TocLink\endcsname{1}{x1-220007}{QQ2-1-22}{Carrying on}}{24}\relax 
+\doTocEntry\tocsubsection{7.1}{\csname a:TocLink\endcsname{1}{x1-230007.1}{QQ2-1-23}{Changing the type style}}{24}\relax 
+\doTocEntry\tocsubsection{7.2}{\csname a:TocLink\endcsname{1}{x1-240007.2}{QQ2-1-24}{Changing type size}}{26}\relax 
+\doTocEntry\tocsubsection{7.3}{\csname a:TocLink\endcsname{1}{x1-250007.3}{QQ2-1-25}{Symbols from other languages}}{26}\relax 
+\doTocEntry\tocsubsection{7.4}{\csname a:TocLink\endcsname{1}{x1-260007.4}{QQ2-1-26}{Defining commands and environments}}{28}\relax 
+\doTocEntry\tocsubsection{7.5}{\csname a:TocLink\endcsname{1}{x1-270007.5}{QQ2-1-27}{Theorems and such}}{29}\relax 
+\doTocEntry\tocsubsection{7.6}{\csname a:TocLink\endcsname{1}{x1-280007.6}{QQ2-1-28}{Figures and other floating bodies}}{30}\relax 
+\doTocEntry\tocsubsection{7.7}{\csname a:TocLink\endcsname{1}{x1-290007.7}{QQ2-1-29}{Lining it up in columns}}{30}\relax 
+\doTocEntry\toclot{1}{\csname a:TocLink\endcsname{1}{x1-290091}{}{\ignorespaces Keyboard shortcuts for \textit  {Ipe}}}{table}\relax 
+\doTocEntry\toclot{2}{\csname a:TocLink\endcsname{1}{x1-290102}{}{}}{table}\relax 
+\doTocEntry\toclot{3}{\csname a:TocLink\endcsname{1}{x1-290113}{}{}}{table}\relax 
+\doTocEntry\toclot{4}{\csname a:TocLink\endcsname{1}{x1-290124}{}{}}{table}\relax 
+\doTocEntry\tocsubsection{7.8}{\csname a:TocLink\endcsname{1}{x1-300007.8}{QQ2-1-34}{Tabbing}}{40}\relax 
+\doTocEntry\tocsubsection{7.9}{\csname a:TocLink\endcsname{1}{x1-310007.9}{QQ2-1-35}{Simulating typed text}}{40}\relax 
+\doTocEntry\tocsection{8}{\csname a:TocLink\endcsname{1}{x1-320008}{QQ2-1-36}{Moving information around}}{41}\relax 
+\doTocEntry\tocsubsection{8.1}{\csname a:TocLink\endcsname{1}{x1-330008.1}{QQ2-1-37}{Cross-references}}{41}\relax 
+\doTocEntry\tocsubsection{8.2}{\csname a:TocLink\endcsname{1}{x1-340008.2}{QQ2-1-38}{Links to external information}}{49}\relax 
+\doTocEntry\tocsubsection{8.3}{\csname a:TocLink\endcsname{1}{x1-350008.3}{QQ2-1-39}{Links into your document}}{49}\relax 
+\doTocEntry\tocsubsection{8.4}{\csname a:TocLink\endcsname{1}{x1-360008.4}{QQ2-1-40}{Bibliography and citation}}{55}\relax 
+\doTocEntry\tocsubsection{8.5}{\csname a:TocLink\endcsname{1}{x1-370008.5}{QQ2-1-41}{Splitting your input}}{61}\relax 
+\doTocEntry\tocsubsection{8.6}{\csname a:TocLink\endcsname{1}{x1-380008.6}{QQ2-1-42}{Making an index or glossary}}{61}\relax 
+\doTocEntry\tocsubsection{8.7}{\csname a:TocLink\endcsname{1}{x1-390008.7}{QQ2-1-43}{Screen Output}}{65}\relax 
+\doTocEntry\tocsection{9}{\csname a:TocLink\endcsname{1}{x1-400009}{QQ2-1-44}{Designing it yourself}}{65}\relax 
+\doTocEntry\tocsubsection{9.1}{\csname a:TocLink\endcsname{1}{x1-410009.1}{QQ2-1-45}{Making menus}}{65}\relax 
+\doTocEntry\tocsubsection{9.2}{\csname a:TocLink\endcsname{1}{x1-420009.2}{QQ2-1-46}{Rulers and images}}{67}\relax 
+\doTocEntry\tocsubsection{9.3}{\csname a:TocLink\endcsname{1}{x1-430009.3}{QQ2-1-47}{Adding raw \textsc  {Xml}\xspace  }}{68}\relax 
+\doTocEntry\tocsubsection{9.4}{\csname a:TocLink\endcsname{1}{x1-440009.4}{QQ2-1-48}{Turning TEX{} into bitmaps}}{69}\relax 
+\doTocEntry\tocsection{10}{\csname a:TocLink\endcsname{1}{x1-4500010}{QQ2-1-49}{Controlling Hyperlatex}}{72}\relax 
+\doTocEntry\tocsubsection{10.1}{\csname a:TocLink\endcsname{1}{x1-4600010.1}{QQ2-1-50}{Siteinit, Init, and other packages}}{72}\relax 
+\doTocEntry\tocsubsection{10.2}{\csname a:TocLink\endcsname{1}{x1-4700010.2}{QQ2-1-51}{Splitting into nodes and menus}}{72}\relax 
+\doTocEntry\tocsubsection{10.3}{\csname a:TocLink\endcsname{1}{x1-4800010.3}{QQ2-1-52}{Customizing the navigation panels}}{74}\relax 
+\doTocEntry\tocsubsection{10.4}{\csname a:TocLink\endcsname{1}{x1-4900010.4}{QQ2-1-53}{Changing the formatting of footnotes}}{75}\relax 
+\doTocEntry\tocsubsection{10.5}{\csname a:TocLink\endcsname{1}{x1-5000010.5}{QQ2-1-54}{Setting Html attributes}}{76}\relax 
+\doTocEntry\tocsubsection{10.6}{\csname a:TocLink\endcsname{1}{x1-5100010.6}{QQ2-1-55}{Making characters non-special}}{80}\relax 
+\doTocEntry\tocsubsection{10.7}{\csname a:TocLink\endcsname{1}{x1-5200010.7}{QQ2-1-56}{CSS, Character Sets, and so on}}{82}\relax 
+\doTocEntry\tocsection{11}{\csname a:TocLink\endcsname{1}{x1-5300011}{QQ2-1-57}{Extending Hyperlatex}}{83}\relax 
+\doTocEntry\tocsubsection{11.1}{\csname a:TocLink\endcsname{1}{x1-5400011.1}{QQ2-1-58}{The \textit  {frames} package}}{83}\relax 
+\doTocEntry\tocsubsection{11.2}{\csname a:TocLink\endcsname{1}{x1-5500011.2}{QQ2-1-59}{The \textit  {sequential} package}}{83}\relax 
+\doTocEntry\tocsubsection{11.3}{\csname a:TocLink\endcsname{1}{x1-5600011.3}{QQ2-1-60}{Xspace}}{84}\relax 
+\doTocEntry\tocsubsection{11.4}{\csname a:TocLink\endcsname{1}{x1-5700011.4}{QQ2-1-61}{Longtable}}{84}\relax 
+\doTocEntry\tocsubsection{11.5}{\csname a:TocLink\endcsname{1}{x1-5800011.5}{QQ2-1-62}{Tabularx}}{84}\relax 
+\doTocEntry\tocsubsection{11.6}{\csname a:TocLink\endcsname{1}{x1-5900011.6}{QQ2-1-63}{Using color in Hyperlatex}}{84}\relax 
+\doTocEntry\tocsubsection{11.7}{\csname a:TocLink\endcsname{1}{x1-6000011.7}{QQ2-1-64}{Babel}}{85}\relax 
+\doTocEntry\tocsubsection{11.8}{\csname a:TocLink\endcsname{1}{x1-6100011.8}{QQ2-1-65}{Documenting code}}{86}\relax 
+\doTocEntry\tocsubsection{11.9}{\csname a:TocLink\endcsname{1}{x1-6200011.9}{QQ2-1-66}{Writing your own extensions}}{87}\relax 
+\doTocEntry\tocsubsection{11.10}{\csname a:TocLink\endcsname{1}{x1-6300011.10}{QQ2-1-67}{Macro names}}{87}\relax 
+\doTocEntry\tocsection{12}{\csname a:TocLink\endcsname{1}{x1-6400012}{QQ2-1-68}{Changes in Hyperlatex}}{88}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-6500012}{QQ2-1-69}{Changes from~2..6 to~2.7}}{88}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-6600012}{QQ2-1-70}{Changes from~2.5 to~2.6}}{88}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-6700012}{QQ2-1-71}{Changes from~2.4 to~2.5}}{89}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-6800012}{QQ2-1-72}{Changes from~2.3 to~2.4}}{89}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-6900012}{QQ2-1-73}{Changes from~2.2 to~2.3}}{90}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-7000012}{QQ2-1-74}{Changes from~2.1 to~2.2}}{90}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-7100012}{QQ2-1-75}{Changes from~2.0 to~2.1}}{91}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-7200012}{QQ2-1-76}{Changes from~1.4 to~2.0}}{91}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-7300012}{QQ2-1-77}{Changes from~1.3 to~1.4}}{92}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-7400012}{QQ2-1-78}{Changes from~1.2 to~1.3}}{92}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-7500012}{QQ2-1-79}{Changes from~1.1 to~1.2}}{93}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-7600012}{QQ2-1-80}{Changes from~1.0 to~1.1}}{93}\relax 
+\doTocEntry\tocsection{13}{\csname a:TocLink\endcsname{1}{x1-7700013}{QQ2-1-81}{Acknowledgments}}{93}\relax 
+\doTocEntry\tocsection{14}{\csname a:TocLink\endcsname{1}{x1-7800014}{QQ2-1-82}{Copyright}}{94}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-7900014}{QQ2-1-83}{References}}{94}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-8000014}{QQ2-1-84}{Index}}{94}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-8100014}{QQ2-1-85}{Contents}}{98}\relax 

@@ -1,0 +1,50 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Arch Linux) (format=pdflatex 2010.3.23)  31 MAR 2010 14:22
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**expex.sty
+(./expex.sty
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, german-x-2009-06-19, ngerman-x-2009-06-19, ancientgreek, ibycus, ar
+abic, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danish, dutc
+h, esperanto, estonian, farsi, finnish, french, galician, german, ngerman, mono
+greek, greek, hungarian, icelandic, indonesian, interlingua, irish, italian, ku
+rmanji, latin, latvian, lithuanian, mongolian, mongolian2a, bokmal, nynorsk, po
+lish, portuguese, romanian, russian, sanskrit, serbian, slovak, slovenian, span
+ish, swedish, turkish, ukenglish, ukrainian, uppersorbian, welsh, loaded.
+
+LaTeX Warning: You have requested package `',
+               but the package provides `expex'.
+
+Package: expex 2009/05/08 package wrapper for expex.tex
+(./expex.tex (/usr/share/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+\XKV@toks=\toks14
+\XKV@tempa@toks=\toks15
+\XKV@depth=\count79
+File: xkeyval.tex 2008/08/13 v2.6a key=value parser (HA)
+
+(/usr/share/texmf-dist/tex/generic/xkeyval/keyval.tex))
+File: expex.tex 2008/05/08 v1.0(beta) ExPex linguistics example formatter (JF)
+\excnt=\count80
+\ex@type=\count81
+\pexcnt=\count82
+\@pexoffset=\dimen102
+\ling@tagsfile=\write3
+\ling@tagsin=\read1
+))
+! Emergency stop.
+<*> expex.sty
+             
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 441 strings out of 493847
+ 5457 string characters out of 3153979
+ 51165 words of memory out of 3000000
+ 3807 multiletter control sequences out of 15000+200000
+ 3640 words of font info for 14 fonts, out of 3000000 for 9000
+ 714 hyphenation exceptions out of 8191
+ 29i,0n,55p,135b,22s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!

@@ -1,0 +1,109 @@
+\ProvidesPackage{cvp}
+% WARNING: hyperref must be loaded last,
+% as it needs to redefine a lot of commands
+% that must not be overwritten by other packages
+
+
+%=================================================================
+%			PDF switch
+%=================================================================
+% the following trick is taken from the Latex wikibook
+% http://en.wikibooks.org/wiki/LaTeX
+% 
+% the code below allows us to define
+% switches distinguishing between
+% pdfLaTeX and vanilla LaTeX:
+%
+%\ifpdf
+    % we are running pdfLaTeX
+%\else
+    % we are running LaTeX
+%\fi
+% 
+% \newif\ifpdf
+\ifx\pdfoutput\undefined
+  \pdffalse
+\else
+  \ifnum\pdfoutput=1
+%     \pdftrue
+  \else
+    \pdffalse
+  \fi
+\fi
+
+
+
+%=================================================================
+%		miscellaneous packages
+%=================================================================
+\usepackage{xcolor}
+\usepackage{fixltx2e}	% fixes several bugs in LaTeX2e that were
+			% inherited from older versions for the sake
+			% of backwards compatibility
+
+\usepackage[LabelsAligned]{currvita}
+
+\usepackage[paper=letterpaper,left=1in,right=1in,top=1in,bottom=1in]{geometry}
+
+\usepackage{xspace}	% only needed for the dvi implementation of \dash
+
+
+
+%=================================================================
+%			fonts
+%=================================================================
+% use microtype with pdfLaTeX for optimized kerning, protrusion etc.
+% see the microtype manual for additional options
+\ifpdf
+\usepackage[kerning=true, protrusion=alltext, draft=false]{microtype}
+\else
+\fi
+
+\usepackage[utf8]{inputenc}	% not working with ð and þ; use \eth and \thorn instead
+\usepackage[T1]{fontenc}	% scalable EC fonts
+\usepackage{charter}
+
+
+
+%=================================================================
+%			hyperlinks
+%=================================================================
+% load color package with special parameters
+% depending on whether pdfLaTeX or plain LaTeX
+% is being used
+
+% \ifpdf
+% \usepackage[usenames,dvipsnames]{xcolor}
+% \else
+% \usepackage[usenames,dvips]{xcolor}
+% \fi
+
+% The microtype documentation had such nice colors I couldn't help but steal them ;-)
+\definecolor{theblue}{rgb}{0.02,0.04,0.48}
+\definecolor{Mygrey}{gray}{0.25}
+
+\ifpdf
+	% hyperref on/off, only works with pdfLaTeX
+	\usepackage[	pdftex,%
+			backref=false,%	add link to section of citation to each item in bibliography
+			pagebackref=false,%	add link to page of citation to each item in bibliography
+			bookmarks=true,%	show bookmarks bar?
+			unicode=true,%		non-Latin characters in Acrobat’s bookmarks
+			breaklinks=true,%	allow link texts to break across lines
+			pageanchor=true,%	if set to false, the TOC will have no links
+			pdftoolbar=true,%	show Acrobat’s toolbar?
+			pdfmenubar=true,%	show Acrobat’s menu?
+			pdffitwindow=true,%	page fit to window when opened
+			pdfnewwindow=true,%	links in new window
+			colorlinks=true,%	false: boxed links; true: colored links
+			linkcolor=theblue,%	color of internal links
+			citecolor=theblue,%	color of links to bibliography
+			filecolor=theblue,%	color of file links
+			urlcolor=theblue,%	color of external links
+			pdfauthor={\theauthor},%
+			pdftitle={\thetitle},%
+			pdfkeywords={\thekeywords}%
+		]{hyperref}%
+\else
+\usepackage{url}
+\fi

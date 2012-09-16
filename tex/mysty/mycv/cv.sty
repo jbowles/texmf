@@ -1,0 +1,105 @@
+%=================================================================
+%                               preamble (from THOMAS GRAF)
+%=================================================================
+% don't forget to set the corresponding switch in myifthensettings.sty
+\documentclass[11pt,letterpaper,oneside]{article}
+
+\newcommand{\theauthor}{Joshua Bowles}          % enter your name here to save you some typing
+\newcommand{\university}{Utah Valley University}        % dito for the name of your university
+\newcommand{\emailaddress}{bowlesling@gmail.com}
+\newcommand{\thetitle}{Curriculum Vitae} % dito for the title
+\newcommand{\thekeywords}{}
+\newcommand{\thedate}{\today}
+
+
+
+\usepackage{paperp}
+\usepackage{paperc}
+
+
+%=================================================================
+%                       title format
+%=================================================================
+% Here you can load and typeset all
+% the metadata which you specified above
+
+% The switch in \author is quite complicated
+% as \href is available iff hyperref is loaded,
+% which is the case iff the boolean is set to
+% true and you are using pdflatex
+\author{                \theauthor \\%
+                \small  \university \\%
+                \small  \ifpdf
+                        \ifthenelse{\boolean{hyperref}}
+                        {\href{mailto:\emailaddress}{\emailaddress}}    % clickable mail address
+                        {\emailaddress}                                 % just printed address
+                        \else
+                        \emailaddress                                   % just printed address
+                        \fi
+        }
+\title{\thetitle}
+\date{\ifthenelse{\boolean{uncomment}}{Draft,\ }{}\scriptsize{\texttt{Last updated \thedate}}}
+%print 'draft' if set in myifthensettings.sty
+
+
+%=================================================================
+%                       content
+%=================================================================
+\begin{document}
+% set 'book' to 'true' in myifthensettings.sty to get
+% your custom titlepage, acknowledgments,
+% TOC, list of figures and list of tables
+\ifthenelse{\boolean{book}}
+{
+\input{./tex/title.tex}
+\cleardoublepage
+%
+\input{./tex/ack.tex}
+\cleardoublepage
+%
+\tableofcontents
+\cleardoublepage
+%
+\listoffigures
+\cleardoublepage
+%
+\listoftables
+\cleardoublepage
+}
+{
+% \maketitle
+\pagestyle{empty}
+}
+% expand this list for further chapters
+%\cleardoublepage
+% \input{./tex/intro.tex}
+\input{./tex/CV_Bowles.tex}
+% \input{./tex/concl.tex}
+% \input{./tex/app.tex}
+
+
+%=================================================================
+%                       nomenclature
+%=================================================================
+% switch nomenclature on/off in myifthensettings.sty
+\ifthenelse{\boolean{nomenclature}}{
+\appendixlayout % defined in mycommands.sty
+\addcontentsline{toc}{chapter}{\numberline{}\nomencltitle} %\nomencltitle defined in mycommands.sty
+\markboth{\nomnameh}{\nomnameh}
+\printnomenclature[2cm]
+}{}
+
+
+%=================================================================
+%                       bibliography
+%=================================================================
+% switch bibliography on/off in myifthensettings.sty
+\ifthenelse{\boolean{bibliography}}{
+%\cleardoublepage
+% \appendixlayout % defined in mycommands.sty
+% \addcontentsline{toc}{section}{\numberline{}\bibname} %\bibname defined in mycommands.sty
+% \bibliographystyle{./bib/linquiry3} % linquiry 2 with theses in italics (thanks to Bettina Gruber)
+% \bibliography{./bib/cv}
+}{}
+
+\end{document}

@@ -1,0 +1,25 @@
+\ProvidesPackage{cvc}
+% here you can define your own commands
+
+% \dash - long hyphen (---) with better spacing
+% another command which I got from the class stylesheet of
+% the Semantics & Pragmatics open publishing journal;
+\ifpdf
+	\DeclareRobustCommand\dash{%
+  		\unskip\nobreak\thinspace\textemdash\thinspace\ignorespaces}
+	\pdfstringdefDisableCommands{\renewcommand{\dash}{ - }}
+\else
+\newcommand{\dash}{---\xspace}
+\fi
+
+% \flexref - this command removes all \href commands if hyperref isn't loaded
+\ifpdf
+\newcommand{\flexref}[2]{\href{#1}{#2}}
+\else
+\newcommand{\flexref}[2]{#2}
+\fi
+
+% you may try tweaking these values for better pagebreaks
+\clubpenalty = 10000
+\widowpenalty = 10000
+\displaywidowpenalty = 10000

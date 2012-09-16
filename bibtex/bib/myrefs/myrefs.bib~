@@ -1,0 +1,2716 @@
+
+@inproceedings{Bunt00theabc,
+	author = "Harry Bunt and Bill Black",
+	title = "The ABC of Computational Pragmatics",
+	booktitle = "In",
+	year = "2000"
+}
+
+@article{Constant:etal08,
+	author = "Constant, Noah and Davis, Christopher and Potts, Christopher and Schwarz, Florian",
+	journal = "Sprache und Datenverarbeitung",
+	number = "1--2",
+	pages = "5--21",
+	title = "The Pragmatics of Expressive Content: Evidence from Large Corpora",
+	volume = "33",
+	year = "2009"
+}
+
+@incollection{DavisPottsSpeas07,
+	author = {Davis, Christopher and Christopher Potts and Margaret Speas},
+	title = {The Pragmatic Values of Evidential Sentences},
+	booktitle = {Proceedings of the 17th Conference on Semantics and Linguistic Theory},
+	publisher = {CLC Publications},
+	year = {2007},
+	editor = {Gibson, Masayuki and Friedman, Tova},
+	address = {Ithaca, NY},
+	pages = {71--88}
+}
+
+@incollection{Moore:discoproc,
+	author = "J. Moore and P. Wiemer-Hastings",
+	title = "Discourse in Computational Linguistics and Artificial Intelligence",
+	booktitle = "Handbook of Discourse Processes",
+	pages = "439--486",
+	publisher = "Erlbaum",
+	year = 2003,
+	editor = "A. Graesser and M. Gernsbacher and S. Goldman",
+	address = "Mahwah, NJ"
+}
+
+@inproceedings{Potts03NELS,
+	author = {Potts, Christopher},
+	year = {2003},
+	title = {Expressive Content as Conventional Implicature},
+	editor = {Kadowaki, Makoto and Kawahara, Shigeto},
+	booktitle = {Proceedings of the {N}orth {E}ast {L}inguistic {S}ociety 33},
+	pages = {303--322},
+	address = {Amherst, MA},
+	publisher = {GLSA}
+}
+
+@article{Potts06TARGET,
+	author = {Potts, Christopher},
+	title = {The Expressive Dimension},
+	journal = {Theoretical Linguistics},
+	year = {2007},
+	volume = {33},
+	number = {2},
+	pages = {165--197}
+}
+
+@incollection{Potts08HSK,
+	author = {Potts, Christopher},
+	title = {Conventional Implicature and Expressive Content},
+	booktitle = {Semantics: An International Handbook of Natural Language Meaning},
+	publisher = {Mouton de Gruyter},
+	year = {To appear},
+	editor = {Maienborn, Claudia and von Heusinger, Klaus and Portner, Paul},
+	address = {Berlin}
+}
+
+@article{ackemadehoop06otsyntax,
+	title = "Current issues in optimality theoretic syntax",
+	author = "Peter Ackema and Helen {de Hoop}",
+	journal = "Linguistics",
+	year = "2006",
+	volume = "44",
+	number = "5",
+	pages = "873--887"
+}
+
+@book{aikdix03evd,
+	author = "Alexandra Aikhenvald and Robert Dixon",
+	title = "Studies in evidentiality",
+	year = "2003",
+	publisher = "John Benjamins",
+	address = "Amsterdam, The Netherlands"
+}
+
+@book{aikhenvald03cls,
+	author = "Alexandra Y. Aikhenvald",
+	title = "Classifiers: A typology of noun categorization devices",
+	year = "2003",
+	publisher = "Oxford University Press",
+	address = "Oxford"
+}
+
+@book{aikhenvald04evd,
+	author = "Alexandra Y. Aikhenvald",
+	title = "Evidentiality",
+	year = "2004",
+	publisher = "Oxford University Press",
+	address = "Oxford"
+}
+
+@article{alexanag:1998,
+	title = "Parametrizing AGR: word order, V-movement and EPP checking",
+	author = "Alexiadou and Anagnostopoulou",
+	journal = "Natural Language and Linguistic Theory",
+	year = "1998",
+	volume = "16",
+	number = "",
+	pages = "491--539"
+}
+
+@inproceedings{anderson99formalist,
+	author = "Stephen R. Anderson",
+	editor = "M. Darnell and E. Moravcsik and F. Newmeyer and M. Noonan and K. Wheatley",
+	title = "A formalist's reading of some functionalist work in syntax",
+	booktitle = "Functionalism and formalism in linguistics",
+	year = "1999",
+	volume = "1",
+	pages = "111--135",
+	publisher = "John Benjamins",
+	address = "Amsterdam"
+}
+
+@inproceedings{aristotle66syllogism,
+	author = "Aristotle",
+	editor = "Irving M. Copi and James A. Gould",
+	title = "Definition of the syllogism",
+	booktitle = "Readings on Logic",
+	year = "1966",
+	pages = "95--99",
+	publisher = "The Macmillan Company",
+	address = "New York"
+}
+
+@book{ayer:1936,
+	author = "A. J. Ayer",
+	title = "Truth, logic, and Language",
+	year = "1936",
+	publisher = "Basic Books",
+	address = "New York"
+}
+
+@article{baker85mirror,
+	title = "The mirror principle and morphosyntactic explanation",
+	author = "Mark Baker",
+	journal = "Linguistic Inquiry",
+	year = "1985",
+	volume = "16",
+	number = "",
+	pages = "373--415"
+}
+
+@book{baker:1996,
+	author = "Mark Baker",
+	title = "The polysynthesis parameter",
+	year = "1996",
+	publisher = "Oxford University Press",
+	address = "Oxford"
+}
+
+@book{baker:2003,
+	author = "Mark Baker",
+	title = "Lexical categories",
+	year = "2003",
+	publisher = "Cambridge Univeristy Press",
+	address = "Cambridge, UK"
+}
+
+@book{baker:2003a,
+	author = "Mark Baker",
+	title = "Lexical categories: Verbs, nouns, and adjectives",
+	year = "2003a",
+	publisher = "Cambridge University Press.",
+	address = "Cambridge"
+}
+
+@unpublished{baker:2003b,
+	author = "Mark Baker",
+	title = "Agreement, dislocation, and partial configurationality",
+	year = "2003b",
+	note = "\textsc{M}s., Rutgers University"
+}
+
+@unpublished{baker:2005,
+	author = "Mark Baker",
+	title = "On gerunds and the theory of categories",
+	year = "2005",
+	note = "\textsc{M}s., Rutgers University"
+}
+
+@book{baker:2008,
+	author = "Mark Baker",
+	title = "The syntax of agreement and concord",
+	year = "2008",
+	publisher = "Cambridge University Press",
+	address = "Cambridge"
+}
+
+@article{barhillel:1954,
+	title = "Logical syntax and semantics",
+	author = "Yehoshua Bar-Hillel",
+	journal = "Language",
+	year = "1954",
+	volume = "30",
+	number = "2",
+	pages = "230--237"
+}
+
+@book{barker03logic,
+	author = "Stephen F. Barker",
+	title = "The elements of logic",
+	year = "2003",
+	publisher = "McGraw Hill",
+	address = "Boston, MA"
+}
+
+@article{barnes84evd,
+	title = "Evidentials in the \textsc{T}uyuca verb",
+	author = "Janet Barnes",
+	journal = "International Journal of American Linguistics",
+	year = "1984",
+	volume = "50",
+	number = "",
+	pages = "255--271"
+}
+
+@inproceedings{barnes90classifiers,
+	author = "Janet Barnes",
+	editor = "Doris L. Payne",
+	title = "Classifiers in \textsc{T}uyuca",
+	booktitle = "Amazonian Linguistics: Studies in lowland South American languages",
+	year = "1990",
+	pages = "273--292",
+	publisher = "University of Texas Press",
+	address = "Austin"
+}
+
+@inproceedings{barnes94negation,
+	author = "Janet Barnes",
+	editor = "Peter Kahrel and Ren{\`e} {van den Berg}",
+	title = "Tuyuca",
+	booktitle = "Typological studies in negation",
+	year = "1994",
+	pages = "325--342",
+	publisher = "John Benjamins",
+	address = "Amsterdam"
+}
+
+@article{barnes96autosegments,
+	title = "Autosegments with three-way lexical contrasts in \textsc{T}uyuca",
+	author = "Janet Barnes",
+	journal = "International Journal of American Linguistics",
+	year = "1996",
+	volume = "62",
+	number = "",
+	pages = "31--58"
+}
+
+@inproceedings{barnes99tucano,
+	author = "Janet Barnes",
+	editor = "R.M.W. Dixon and Alexandra Y. Aikhenvald",
+	title = "Tucano",
+	booktitle = "The Amazonian languages",
+	year = "1999",
+	pages = "207--226",
+	publisher = "Cambridge University Press",
+	address = "Cambridge"
+}
+
+@inproceedings{barnesmalone:2000,
+	author = "Janet Barnes and Terrell Malone",
+	editor = "Mar�a Stella Gonz�lez {de P�rez} and Mar�a Luisa Rodr�guez Montes",
+	title = "El Tuyuca",
+	booktitle = "Lenguas ind�genas de Colombia. Una visi�n descriptiva",
+	year = "2000",
+	pages = "437--452",
+	publisher = "Instituto Caro y Cuervo",
+	address = "Santaf� de Bogot�"
+}
+
+@article{barnessilzer:1976,
+	title = "Fonologia del Tuyuca",
+	author = "Janet Barnes and Sheryl Takagi {de Silzer}",
+	journal = "Sistemas Fonologicos de Idiomas Colombianos",
+	year = "1976",
+	volume = "3",
+	number = "",
+	pages = "121--137"
+}
+
+@unpublished{bcm:2006,
+	author = "Cedric Boeckx and Andrew Carnie and David Medeiros",
+	title = "Some reflexes of natural law in syntactic structure",
+	year = "2006",
+	note = "\textsc{M}s., Harvard University and University of Arizona"
+}
+
+@unpublished{bejar:2002,
+	author = "Susana Bejar",
+	title = "Locality, cyclicity and markedness in Georgian verbal morphology",
+	year = "2002",
+	note = "\textsc{M}s., University of Toronto, Canada"
+}
+
+@book{bhj:2003,
+	author = "Rens Bod and Jennifer Hay and Stefanie Jannedy (eds.)",
+	title = "Probabilistic linguistics",
+	year = "2003",
+	publisher = "MIT Press",
+	address = "Cambridge, MA."
+}
+
+@inproceedings{bickerton08merge,
+	author = "Derek Bickerton",
+	editor = "",
+	title = "Recursion: Core of complexity or artifact of analysis",
+	booktitle = "12th Biennial Rice Symposium on Language: Genesis of Syntactic Complexity",
+	year = "2008",
+	pages = "",
+	publisher = "Rice University",
+	url = "http://linguistics.rice.edu/",
+	date = "March 27-29"
+}
+
+@inproceedings{bittner09ucevd,
+	author = "Maria Bittner",
+	editor = "Renate Musan and Monika Rathert",
+	title = "Tense, mood, centering",
+	booktitle = "Tense across languages",
+	year = "to appear",
+	pages = "",
+	note = "Draft version of May 2009",
+	url = "http://www.rci.rutgers.edu/~mbittner/"
+}
+
+@article{blaindechaine07evdtypes,
+	title = "Evidential types: Evidence from \textsc{C}ree dialects",
+	author = "Eleanor M. Blain and Ros-Marie D{\`e}chaine",
+	journal = "International Journal of American Linguistics",
+	year = "2007",
+	volume = "73",
+	number = "3",
+	pages = "257--291"
+}
+
+@misc{bnc99,
+	author = "BNC",
+	title = "British \textsc{N}ational \textsc{C}orpus",
+	year = "1999",
+	publisher = "Oxford University Press",
+	address = "http://info.ox.ac.uk/bnc"
+}
+
+@book{boas11handbook,
+	author = "Franz Boas",
+	title = "The handbook of \textsc{A}merican Indian Languages",
+	year = "2002 [1911]",
+	publisher = "Continuum International Publishing Group",
+	address = ""
+}
+
+@inproceedings{bobaljik:2006,
+	author = "Jonathan Bobaljik",
+	editor = "Marjo Van Koppen",
+	title = "Where's $\Phi$? Agreement as a post-syntactic operation",
+	booktitle = "Leiden papers in linguistics",
+	year = "2006",
+	pages = "1--23",
+	publisher = "Universiteit Leiden",
+	address = "Leiden"
+}
+
+@unpublished{bobaljik:2007,
+	author = "Jonathan Bobaljik",
+	title = "Missing persons: A case study in morphological universals",
+	year = "2007",
+	note = "\textsc{M}s., University of Connecticut"
+}
+
+@book{boeckx06linguisticmin,
+	author = "Cedric Boeckx",
+	title = "Linguistic minimalism: Origins, concepts, methods, and aims",
+	year = "2006",
+	publisher = "Oxford University Press",
+	address = "Oxford"
+}
+
+@book{boeckx08bare,
+	author = "Cedric Boeckx",
+	title = "Bare syntax",
+	year = "2008",
+	publisher = "Oxford University Press",
+	address = "Oxford"
+}
+
+@article{boeckxpp:2005,
+	title = "Language as a natural object---linguistics as a natural science",
+	author = "Cedric Boeckx and Massimo Piattelli-Palmarini",
+	journal = "The Linguistic Review",
+	year = "2005",
+	volume = "22",
+	pages = "447--466"
+}
+
+@inproceedings{boeckxuri:2007,
+	author = "Cedric Boeckx and Juan Uriagereka",
+	editor = "Gillian Ramchand and C. Reiss",
+	title = "Minimalism",
+	pages = "541--573",
+	booktitle = "Oxford handbook of linguistic interfaces",
+	year = "2007",
+	publisher = "Oxford University Press",
+	address = "Oxford"
+}
+
+@inproceedings{boeder:2000,
+	author = "Winfried Boeder",
+	editor = "Lars Johanson and Bo Utas",
+	title = "Evidentiality in \textsc{{\it G}}eorgian",
+	booktitle = "Evidentials: Turkic, Iranian and neighboring languages",
+	year = "2000",
+	pages = "275--328",
+	publisher = "Mouton de Gruyter",
+	address = "Berlin"
+}
+
+@book{boole1854laws,
+	author = "George Boole",
+	title = "An investigation of the laws of thought",
+	year = "2005 [1854]",
+	publisher = "Barnes and Noble Books",
+	address = "New York"
+}
+
+@article{boskovic:2007,
+	title = "On the locality and motivation of \textsc{M}ove and \textsc{A}gree: an even more minimal theory",
+	author = "Zeliko Boskovic",
+	journal = "Linguistic Inquiry",
+	year = "2007",
+	volume = "38",
+	number = "",
+	pages = "589--644"
+}
+
+@unpublished{bowles07field,
+	author = "Joshua Bowles",
+	title = "Fieldwork notes on \textsc{D}esano and \textsc{P}ortuguese with some data from \textsc{C}ubeo: Summer 2007",
+	year = "2007",
+	note = "\textsc{M}s., University of Utah"
+}
+
+@unpublished{bowles07phieta,
+	author = "Joshua Bowles",
+	title = "Phi and \textsc{E}ta interactions in \textsc{T}uyuca",
+	year = "2007",
+	note = "\textsc{M}s., University of Utah"
+}
+
+@unpublished{bowles07stress,
+	author = "Joshua Bowles",
+	title = "The stress-to-pitch principle: Evidence from Wanano",
+	year = "2007",
+	note = "\textsc{M}s., University of Utah"
+}
+
+@article{bowles08causalinference,
+	title = "Some questions about determining causal inference and criteria for evidence: Response to Ladd, Dediu, and Kinsella (2008)",
+	author = "Joshua Bowles",
+	journal = "Biolinguistics",
+	year = "2008",
+	volume = "2",
+	number = "2.2-3",
+	pages = "247--255",
+	url = "http://www.biolinguistics.eu/index.php/biolinguistics/issue/view/8/showToc"
+}
+
+@article{bowles08fusedte,
+	title = "The morphosyntax of fused tense-evidentials: An initial model",
+	author = "Joshua Bowles",
+	publisher = "University of Wisconsin-Madison",
+	journal = "Linguistic Student Organization Working Papers in Linguistics",
+	pages = "",
+	volume = "8",
+	month = "",
+	year = "to appear",
+	url = "http://ling.wisc.edu/lso/wpl-main.html"
+}
+
+@mastersthesis{bowles08thesis,
+	author = "Joshua Bowles",
+	title = "Agreement in \textsc{{\it T}}uyuca",
+	school = "University of Utah",
+	year = "2008"
+}
+
+@unpublished{bowles08typsketchtuyuca,
+	author = "Joshua Bowles",
+	title = "Typological sketch of \textsc{T}uyuca",
+	year = "2008",
+	note = "\textsc{M}s., University of Utah"
+}
+
+@misc{bowles09amerge,
+	author = "Joshua Bowles",
+	title = "\textsc{M}erge, symmetry, and group theory$\alpha$",
+	year = "2009",
+	note = "\textsc{M}s., University of Utah and Utah Valley University"
+}
+
+@unpublished{bowles09evdrhetorical,
+	author = "Joshua Bowles",
+	title = "The rhetorical force of evidentiality in academic writing",
+	year = "2009",
+	note = "\textsc{M}s., Utah Valley University"
+}
+
+@book{bowles09goethe,
+	author = "Joshua Bowles",
+	title = "Goethe's leaves, Turing's machine, and the human mind: An exploration of modern linguistic theory",
+	year = "2009",
+	url = "http://sites.google.com/site/bowleslinguistics/Home/research/misc-1"
+}
+
+@unpublished{bowles09recurfunctional,
+	author = "Joshua Bowles",
+	title = "Recursive structure in functional hierarchies",
+	year = "2009",
+	note = "\textsc{M}s., Utah Valley University"
+}
+
+@unpublished{bowles09recursion,
+	author = "Joshua Bowles",
+	title = "Recursion for computation's sake",
+	year = "2009",
+	note = "\textsc{M}s., Utah Valley University"
+}
+
+@unpublished{bowles09synsempragevd,
+	author = "Joshua Bowles",
+	title = "Some syntax, semantics, and pragmatics of evidentiality in \textsc{ E}nglish",
+	year = "2009",
+	note = "\textsc{M}s., Utah Valley University"
+}
+
+@unpublished{bowles09tuyucadata,
+	author = "Joshua Bowles",
+	title = "Tuyuca data set",
+	year = "2009",
+	note = "\textsc{M}s., University of Utah and Utah Valley University"
+}
+
+@misc{bowles10wccfl28,
+	author = "Joshua Bowles",
+	title = "\textsc{M}erge, groups, (anti)symmetry, and evidentiality: Heirarchical relations in information structure$\alpha$",
+	year = "2010",
+	note = "\textsc{U}nder review for presentation at the \textsc{WCCFL 28}."
+}
+
+@misc{brown79francis-kucera,
+	author = "W. Nelson Francis and Henry Kucera",
+	title = "A standard corpus of present-day edited \textsc{A}merican \textsc{E}nglish, for use with digital computers: Revised and amplified",
+	year = "1979",
+	publisher = "Brown University"
+}
+
+@book{bybee85morph,
+	author = "Joan L. Bybee",
+	title = "Morphology: a study of the relation between meaning and form",
+	year = "1985",
+	publisher = "John Benjamins",
+	address = "Amsterdam"
+}
+
+@misc{byubnc04davies,
+	author = "Mark Davies",
+	title = "\textsc{BYU-BNC}: The \textsc{B}ritish \textsc{N}ational \textsc{C}orpus",
+	year = "2004-present",
+	publisher = "Brigham Young University",
+	url = "http://corpus.byu.edu/bnc"
+}
+
+@unpublished{cable08nopiping,
+	author = "Seth Cable",
+	title = "Towards the elimination of pied-piping: Evidence from \textsc{T}lingit",
+	year = "2008",
+	note = "\textsc{M}s., University of Massachusetts, Amherst",
+	url = "http://people.umass.edu/scable/papers/"
+}
+
+@inproceedings{cable08whmove,
+	author = "Seth Cable",
+	editor = "Lisa Matthewson",
+	title = "Q-particles and the nature of {\sc wh}-fronting",
+	booktitle = "Quantification: Universals and Variation",
+	year = "2008",
+	pages = "105--178",
+	publisher = "North Holland Linguistic Series",
+	address = ""
+}
+
+@book{campbell04historical,
+	author = "Lyle Campbell",
+	title = "Historical linguistics: an introduction",
+	year = "2004",
+	edition = "Second",
+	publisher = "MIT Press",
+	address = "Cambridge, MA."
+}
+
+@inproceedings{campbell91grammestonian,
+	author = "Lyle Campbell",
+	editor = "Elizabeth C. Traugott and Bernd Heine",
+	title = "Some grammaticalization changes in Estonian and their implications",
+	booktitle = "Approaches to Grammaticalization",
+	year = "1991",
+	pages = "285--299",
+	volume = "1",
+	publisher = "John Benjamins",
+	address = "Amsterdam"
+}
+
+@book{campbell:1997,
+	author = "Lyle Cambell",
+	title = "American Indian Languages: The historical linguistics of native America",
+	year = "1997",
+	publisher = "Oxford University Press",
+	address = "Oxford"
+}
+
+@unpublished{campbell:2007,
+	author = "Lyle Campbell",
+	title = "Class notes and handouts from 'Language Documentation: Writing Grammars and Dictionaries'",
+	year = "2007",
+	note = "\textsc{M}s., University of Utah"
+}
+
+@book{carnap:1937,
+	author = "Rudolf Carnap",
+	title = "The logical syntax of language",
+	year = "1937",
+	publisher = "Open Court Classics",
+	address = "Chicago"
+}
+
+@article{carnie:2000,
+	title = "On the definition of \textsc{X$^{0}$} and \textsc{XP}",
+	author = "Andrew Carnie",
+	journal = "Syntax",
+	year = "2000",
+	volume = "3",
+	number = "2",
+	pages = "59--106"
+}
+
+@book{carnie:2005,
+	author = "Andrew Carnie",
+	title = "Syntax: A generative introduction",
+	year = "2005",
+	edition = "",
+	publisher = "Blackwell",
+	address = "Oxford"
+}
+
+@book{carnie:2008,
+	author = "Andrew Carnie",
+	title = "Constituent Structure",
+	year = "2008",
+	publisher = "Oxford University Press",
+	address = "Oxford"
+}
+
+@book{chafenichols86evd,
+	author = "Wallace Chafe and Johanna Nichols",
+	title = "Evidentiality: The linguistic encoding of epistemology",
+	year = "1986",
+	publisher = "Ablex Publishing corp.",
+	address = "Norwood, NJ"
+}
+
+@book{chametzky:2000,
+	author = "Robert Chamtezky",
+	title = "Phrase Structure: From \textsc{GB} to \textsc{M}inimalism",
+	year = "2000",
+	publisher = "Blackwell",
+	address = "Oxford"
+}
+
+@book{chmg:2000,
+	author = "Gennaro Chierchia and Sally McConnell-Ginet",
+	title = "Meaning and Grammar: An introduction to Semantics",
+	year = "2000",
+	edition = "Second",
+	publisher = "MIT Ptess",
+	address = "Cambridge, MA."
+}
+
+@book{chomsky00horizons,
+	author = "Noam Chomsky",
+	title = "New Horizons in the study of language and mind",
+	year = "2000",
+	publisher = "Cambridge University Press",
+	address = "Cambridge"
+}
+
+@inproceedings{chomsky00mininq,
+	author = "Noam Chomsky",
+	editor = "Roger Martin and David Michaels and Juan Uriagereka",
+	title = "Minimalist inquiries: The framework",
+	booktitle = "Step by step: Essays on Minimalist Syntax in honor of Howard Lasnik",
+	year = "2000",
+	pages = "89--155",
+	publisher = "MIT Press",
+	address = "Cambridge, MA"
+}
+
+@inproceedings{chomsky01derivation,
+	author = "Noam Chomsky",
+	editor = "Michael Kenstowicz",
+	title = "Derivation by Phase",
+	booktitle = "Ken Hale: a life in language",
+	year = "2001",
+	pages = "1--52",
+	publisher = "MIT Press",
+	address = "Cambridge, MA"
+}
+
+@article{chomsky05threefactors,
+	title = "Three factors of language design",
+	author = "Noam Chomsky",
+	journal = "Linguistic Inquiry",
+	year = "2005",
+	volume = "36",
+	number = "1",
+	pages = "1--22"
+}
+
+@article{chomsky07ofminds,
+	title = "Of minds and language",
+	author = "Noam Chomsky",
+	journal = "Biolinguistics",
+	year = "2007",
+	volume = "1",
+	number = "",
+	pages = "9--27"
+}
+
+@inproceedings{chomsky08onphases,
+	author = "Noam Chomsky",
+	editor = "Robert Freidin and Carlos P. Otero and Maria Luisa Zubizarreta",
+	title = "On phases",
+	booktitle = "Foundational issues in linguistic theory",
+	year = "2008",
+	publisher = "MIT Press",
+	address = "Cambridge, MA."
+}
+
+@article{chomsky55logicalsyntax,
+	title = "Logical syntax and semantics: Their linguistic relevance",
+	author = "Noam Chomsky",
+	journal = "Language",
+	year = "1955",
+	volume = "31",
+	number = "1",
+	pages = "36--45"
+}
+
+@book{chomsky57ss,
+	author = "Noam Chomsky",
+	title = "Syntactic structures",
+	year = "1957",
+	publisher = "Mouton",
+	address = "The Hague"
+}
+
+@book{chomsky65aspects,
+	author = "Noam Chomsky",
+	title = "Aspects of the theory of syntax",
+	year = "1965",
+	publisher = "MIT Press",
+	address = "Cambridge, MA."
+}
+
+@inproceedings{chomsky70remarks,
+	author = "Noam Chomsky",
+	editor = "Roderick Jacobs and Peter Rosenbaum",
+	title = "Remarks on nominalization",
+	booktitle = "Readings in Transformational Grammar",
+	year = "1970",
+	publisher = "Ginn",
+	address = "Waltham, MA."
+}
+
+@book{chomsky81lgb,
+	author = "Noam Chomsky",
+	title = "Lectures on Government and Binding",
+	year = "1981",
+	publisher = "Mouton de Gruyter",
+	address = "The Hague"
+}
+
+@book{chomsky86knowledge,
+	author = "Noam Chomsky",
+	title = "Knowledge of language: Its nature, origin, and use",
+	year = "1986",
+	publisher = "Praeger",
+	address = "New York"
+}
+
+@article{chomsky94bps,
+	title = "Bare phrase structure",
+	author = "Noam Chomsky",
+	journal = "MIT Occasional Papers in Linguistics",
+	year = "1994",
+	volume = "5",
+	publisher = "MIT",
+	address = "Cambridge, MA."
+}
+
+@inproceedings{chomsky95bps,
+	author = "Noam Chomsky",
+	editor = "Geert Webelhuth",
+	title = "Bare phrase structure",
+	booktitle = "Government and Binding theory and the Minimlaist Program",
+	year = "1995",
+	publisher = "Blackwell",
+	address = "Oxford"
+}
+
+@article{chomsky95langnature,
+	author = "Noam Chomsky",
+	title = "Language and nature",
+	journal = "Mind",
+	year = "1995",
+	volume = "104",
+	pages = "1--61"
+}
+
+@book{chomsky95mp,
+	author = "Noam Chomsky",
+	title = "The minimalist program",
+	year = "1995",
+	publisher = "MIT Press",
+	address = "Cambridge, MA."
+}
+
+@phdthesis{chung05space,
+	author = "Kyung-Sook Chung",
+	title = "Space in Tense: The interaction of tense, aspect, evidentiality, and speech act in Korean",
+	school = "Simon Fraser University",
+	year = "2005"
+}
+
+@phdthesis{chung:2005,
+	author = "Kyungsook Chung",
+	title = "Space in tense: The interaction of tense, aspect, evidentiality and speech act in Korean",
+	school = "Simon Fraser University",
+	year = "2005"
+}
+
+@article{church:1936,
+	title = "An unsolvable problem of elementary number theory",
+	author = "Alonzo Church",
+	journal = "American Journal of Mathematics",
+	year = "1936",
+	volume = "58",
+	number = "2",
+	pages = "345--363"
+}
+
+@book{cinque99adverbs,
+	author = "Guglielmo Cinque",
+	title = "Adverbs and functional heads",
+	year = "1999",
+	publisher = "Oxford University Press",
+	address = "Oxford"
+}
+
+@article{citko:2005,
+	title = "On the nature of Merge: External Merge, Internal Merge, and Parallel Merge",
+	author = "Barbara Citko",
+	journal = "Linguistic Inquiry",
+	year = "2005",
+	volume = "36",
+	number = "4",
+	pages = "475--496"
+}
+
+@article{clarkcurran:2007,
+	title = "Wide-coverage efficient statistical parsing with CCG and Log-Linear models",
+	author = "Stephen Clark and James R. Curran",
+	journal = "Computational Linguistics",
+	year = "2007",
+	volume = "33",
+	number = "4",
+	pages = "493--552"
+}
+
+@article{cm:2005,
+	title = "Tree maximization and the Extended Projection Principle",
+	author = "Andrew Carnie and David Medeiros",
+	journal = "Coyote Working Papers in Linguistics",
+	year = "2005",
+	volume = "14",
+	pages = "51--55"
+}
+
+@misc{coca08davies,
+	author = "Mark Davies",
+	title = "The \textsc{C}orpus of \textsc{C}ontemporary \textsc{A}merican \textsc{E}nglish (\textsc{COCA}): 400+million words, 1990-present",
+	year = "2008-present",
+	publisher = "Brigham Young University",
+	url = "http://www.americancorpus.org"
+}
+
+@book{collins:1997,
+	author = "Chris Collins",
+	title = "Local economy",
+	year = "1997",
+	publisher = "MIT Press",
+	address = "Cambridge, MA."
+}
+
+@inproceedings{collins:2001,
+	author = "Chris Collins",
+	editor = "Samuel D. Epstein and T. Daniel Seeley",
+	title = "Eliminating labels",
+	booktitle = "Derivation and explanation in the Minimalist Program",
+	year = "2001",
+	publisher = "Blackwell",
+	address = "Oxford"
+}
+
+@book{comrie:1981,
+	author = "Bernard Comrie",
+	title = "Language universals and linguistic typology",
+	year = "1981",
+	publisher = "Basil Blackwell",
+	address = "Oxford"
+}
+
+@book{cookgralow:2001,
+	author = "Dorothy M. Cook and Frances L. Gralow",
+	title = "Diccionario Bilingue: Koreguaje-Espanol, Espanol-Koreguaje",
+	year = "2001",
+	publisher = "Summer Institute of Linguistics",
+	address = ""
+}
+
+@book{corbett:1991,
+	author = "Greville Corbett",
+	title = "Gender",
+	year = "1991",
+	publisher = "Cambridge University Press",
+	address = "Cambridge"
+}
+
+@book{corbett:2000,
+	author = "Greville Corbett",
+	title = "Number",
+	year = "2000",
+	publisher = "Cambridge University Press",
+	address = "Cambridge"
+}
+
+@article{corbett:2003,
+	title = "Agreement: The range of the phenomenon and the principles ofthe Surrey Database of Agreement",
+	author = "Greville Corbett",
+	journal = "Transactions of the Philological Society",
+	year = "2003",
+	volume = "101",
+	number = "",
+	pages = "155--202"
+}
+
+@book{corbett:2006,
+	author = "Greville Corbett",
+	title = "Agreement",
+	year = "2006",
+	publisher = "Cambridge University Press",
+	address = "Cambridge"
+}
+
+@inproceedings{csato:2000,
+	author = "Eva Agnes Csato",
+	editor = "Lars Johanson and Bo Utas",
+	title = "Turkish MIs and IMIs: Dimensions of a functional analysis",
+	booktitle = "Evidentials: Turkic, Iranian and neighboring languages",
+	year = "2000",
+	pages = "29--44",
+	publisher = "Mouton de Gruyter",
+	address = "Berlin"
+}
+
+@article{dehaan01relation,
+	title = "The relation between modality and evidentiality",
+	author = "Ferdinand {de Haan}",
+	journal = "Linguistische Berichte",
+	year = "2001",
+	pages = "201--216"
+}
+
+@unpublished{dehaan01visualevd,
+	author = "Ferdinand {de Haan}",
+	title = "Visual evidentiality and its origins",
+	year = "2001",
+	note = "\textsc{M}s., University of Arizona, Tucson"
+}
+
+@article{deutsch:1985,
+	title = "Quantum theory, the Church-Turing principle and the universal quantum computer",
+	author = "David Deutsch",
+	journal = "Proceedings of the Royal Society of London A",
+	year = "1985",
+	volume = "400",
+	pages = "97--117"
+}
+
+@book{deutsch:1997,
+	author = "David Deutsch",
+	title = "The fabric of reality: The science of parallel universes and its implications ",
+	year = "1997",
+	publisher = "Penguin Books",
+	address = "New York"
+}
+
+@article{discuillo-isacs:2008,
+	tyitle = "The asymmetry of Merge",
+	author = "Anna Maria {di Scuillo} and Daniela Isacs",
+	journal = "Biolinguistics",
+	year = "2008",
+	volume = "2",
+	number = "4",
+	pages = "260--290"
+}
+
+@book{dornhoffhohn:1978,
+	author = "Larry L. Dornhoff and Franz E. Hohn",
+	title = "Applied modern algebra",
+	year = "1978",
+	publisher = "Macmillian Publishing Co., Inc.",
+	address = "New York"
+}
+
+@book{dorpayne:1990,
+	editor = "Doris L. Payne",
+	title = "Amazonian Linguistics: Studies in lowland South languages",
+	year = "1990",
+	publisher = "University of Texas Press",
+	address = "Austin"
+}
+
+@unpublished{drubig:2001,
+	author = "Hand Bernhard Drubig",
+	title = "On the syntactic form of epistemic modality",
+	year = "2001",
+	note = "\textsc{M}s., University of T�bingen"
+}
+
+@article{dymetman98groupcompling,
+	title = "Group theory and computational linguistics",
+	author = "Marc Dymetman",
+	journal = "Journal of Logic, Language, and Information",
+	year = "1998",
+	volume = "7",
+	number = "",
+	pages = "461--497"
+}
+
+@inproceedings{dymetman98grouplingprocess,
+	author = "Marc Dymetman",
+	title = "Group Theory and Linguistic Processing",
+	booktitle = "\textsc{{\sl COLING-ACL}}",
+	year = "1998",
+	pages = "348--352",
+	bibsource = "DBLP, http://dblp.uni-trier.de"
+}
+
+@article{etxepareevd10,
+	title = "From hearsay evidentiality to samesaying relations",
+	author = "Ricardo Etxepare",
+	journal = "Lingua",
+	year = "2010",
+	volume = "120",
+	number = "",
+	pages = "604--627",
+	doi = "10.1016/j.lingua.2008.07.009"
+}
+
+@article{everett05piraha,
+	title = "Cultural constraints on grammar and cognition in \textsc{P}irah{\~a}: Another look at the design features of human language",
+	author = "Daniel L. Everett",
+	journal = "Current Anthropology",
+	year = "2005",
+	volume = "46",
+	number = "4",
+	pages = "621--646"
+}
+
+@article{everett06reply,
+	title = "Reply to \textsc{D}iscussion for ``\textsc{O}n cultural constraints on \textsc{P}irah{\~a} grammar''",
+	author = "Daniel L. Everett",
+	journal = "Current Anthropology",
+	year = "2006",
+	volume = "47",
+	number = "1",
+	pages = "143--145"
+}
+
+@unpublished{everett07replynevins,
+	author = "Daniel L. Everett",
+	title = "Cultural constraints on grammar in \textsc{P}irah{\~a}: A reply to \textsc{N}evins, \textsc{P}esetsky, and \textsc{R}odrigues",
+	year = "2007",
+	note = "Ms., Linguistics, Anthroplogy, and Biological Sciences, Illinois State University"
+}
+
+@article{everett09response,
+	title = "Pirah{\~a} culture and grammar: A response to some criticisms",
+	author = "Daniel L. Everett",
+	journal = "Language",
+	year = "2009",
+	volume = "85",
+	number = "2",
+	pages = "405--442"
+}
+
+@inproceedings{everett86hal,
+	author = "Daniel L. Everett",
+	editor = "Desmond C. Derbyshire and Geoffrey K. Pullum",
+	title = "Pirah{\~a}",
+	booktitle = "Handbook of Amazonian Languages",
+	year = "1986",
+	volume = "1",
+	pages = "200--325",
+	publisher = "Mouton de Gruyter",
+	address = "Berlin"
+}
+
+@article{everett93sapir,
+	title = "Sapir, \textsc{R}eichenbach, and the syntax of tense in \textsc{P}irah{\~a}",
+	author = "Daniel L. Everett",
+	journal = "Pragmatics and Cognition",
+	year = "1993",
+	volume = "1",
+	pages = "89--124"
+}
+
+@phdthesis{faller02evd,
+	author = "Martina Faller",
+	title = "Semantics and pragmatics of evidentials in Cuzco Quechua",
+	school = "Simon Fraser University",
+	year = "2002"
+}
+
+@inproceedings{faller:2001,
+	author = "Martina Faller",
+	editor = "David Beaver and Stefan Kaufman and Brady Clark and Luis Casillas",
+	title = "Remarks on evidential hierarchies",
+	booktitle = "Proceedings of the Semfest",
+	year = "2001",
+	pages = "37--59",
+	publisher = "CSLI Publications",
+	address = "Stanford"
+}
+
+@article{feferman:1996,
+	title = "Penrose's Godelian argument",
+	author = "Solomon Feferman",
+	journal = "Psyche",
+	year = "1996",
+	volume = "2",
+	pages = "1--15"
+}
+
+@article{fhc:2005,
+	title = "The evolution of the language faculty: Clarifications and implications",
+	author = "Tecumseh Fitch and Marc D. Hauser and Noam Chomsky",
+	journal = "Cognition",
+	year = "2005",
+	volume = "97",
+	pages = "179--210"
+}
+
+@article{fintel95formalsemgramm,
+	title = "The formal semantics of grammaticalization",
+	author = "Kai {von Fintel}",
+	journal = "Proceedings of the North East Linguistics Society",
+	year = "1995",
+	volume = "25",
+	number = "2",
+	pages = "175--189",
+	url = "http://mit.edu/fintel/www/grammar.pdf"
+}
+
+@article{fintelmatt08unisem,
+	title = "Universals in semantics",
+	author = "Kai {von Fintel} and Lisa Matthewson",
+	journal = "The Linguistic Review",
+	year = "2008",
+	volume = "25",
+	number = "1-2",
+	pages = "139--201"
+}
+
+@article{fleck07evddoubletense,
+	title = "Evidentiality and double tense in Matses",
+	author = "David W. Fleck",
+	journal = "Language",
+	year = "2007",
+	volume = "83",
+	number = "",
+	pages = "589--614"
+}
+
+@book{formigari:2004,
+	author = "Lia Formigari",
+	title = "A history of langauge philosophies",
+	year = "2004",
+	publisher = "John Benjamins Publishing Company",
+	address = "Amsterdam/Philadelphia"
+}
+
+@unpublished{fortcm:toappear,
+	author = "Jordi Fortuny and Bernat Corominas-Mutra",
+	title = "Some formal considerations on the generation of hierarchically structured expressions",
+	year = "to appear",
+	note = "\textsc{M}s., Center for Language and Cognition Groningen. Rijksuniversiteit Groningen and ICREA-Complex Systems Lab. Parc de Recerca Biom�dica de Barcelona-Universitat Pompeu Fabra; to appear in \textsl{Catalan Journal of Linguistics}"
+}
+
+@book{fortuny:2008,
+	author = "Jordi Fortuny",
+	title = "The emergence of order in syntax",
+	year = "2008",
+	publisher = "John Benjamins Publishing Company",
+	address = "Amsterdam/Philadelphia"
+}
+
+@phdthesis{garrett01evd,
+	author = "Edward Garrett",
+	title = "Evidentiality and assertion in Tibetan",
+	school = "University of California, Los Angeles",
+	year = "2001"
+}
+
+@article{gimbertkenstowicz:2000,
+	title = "Barasana Tone and Accent",
+	author = "Elsa Gomez-Imbert and Michael Kenstowicz",
+	journal = "International Journal of American Linguistics",
+	year = "2000",
+	volume = "66",
+	number = "",
+	pages = "419--463"
+}
+
+@article{gisborneholmes:2007,
+	title = "A history of \textsc{E}nglish evidential verbs of appearance",
+	author = "Nikolas Gisborne and Jasper Holmes",
+	journal = "English Language and Linguistics",
+	year = "2007",
+	volume = "11",
+	number = "1",
+	pages = "1--29"
+}
+
+@book{givon:1984,
+	author = "Talmy Givon",
+	title = "Syntax: A typological-functional introduction",
+	year = "1984",
+	volume = "1",
+	publisher = "John Benjanims Publishing",
+	address = "Amsterdam"
+}
+
+@book{givon:1990,
+	author = "Talmy Givon",
+	title = "Syntax: A typological-functional introduction",
+	year = "1990",
+	volume = "2",
+	publisher = "John Benjanims Publishing",
+	address = "Amsterdam"
+}
+
+@book{greenmorgan:2001,
+	author = "Georgia M. Green and Jerry L. Morgan",
+	title = "Practical guide to syntactic analysis",
+	year = "2001",
+	edition = "Second",
+	publisher = "CSLI",
+	address = "Stanford University"
+}
+
+@book{gustfriskalgebra,
+	author = "R. David Gustafson \& Peter D. Frisk",
+	title = "College Algebra",
+	year = "2007",
+	edition = "7th",
+	publisher = "Brooks/Cole Thomson Learning",
+	address = "United States"
+}
+
+@misc{gutenberg,
+	author = "PG",
+	title = "Project \textsc{G}utenberg",
+	year = "2009",
+	url = "http://www.gutenberg.org/"
+}
+
+@unpublished{hagstrom08oncable,
+	author = "Paul Hagstrom",
+	title = "Concerning Cable (2008) and the (non)existence of pied-piping",
+	year = "2008",
+	note = "\textsc{M}s., Boston University and the first meeting of \textsl{wh}enthusiasts at Mcgill University"
+}
+
+@unpublished{hale99represent,
+	author = "John Hale",
+	title = "Representational versus derivational approaches to syntax: Optimality Theory and chains",
+	year = "1999",
+	note = "\textsc{M}s., Johns Hopkins University",
+	url = "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.37.1827"
+}
+
+@inproceedings{hallemarantz:1993,
+	author = "Morris Halle and Alec Marantz",
+	editor = "Kenneth Hale and Samuel Jay Keyeser",
+	title = "Distributed Morphology and the pieces of inflection",
+	booktitle = "The view from building 20",
+	year = "1993",
+	pages = "53--109",
+	publisher = "MIT Press",
+	address = "Cambridge, MA."
+}
+
+@article{hallemarantz:1994,
+	title = "Some key features of Distributed Morphology",
+	author = "Morris Halle and Alec Marantz",
+	journal = "MIT Working Papers in Linguistics",
+	year = "1994",
+	volume = "21",
+	number = "",
+	pages = "275--288"
+}
+
+@article{harleyritter:2002,
+	title = "Person and number pronouns: A feature-geometric analysis",
+	author = "Heidi Harley and Elizabeth Ritter",
+	journal = "Language",
+	year = "2002",
+	volume = "78",
+	number = "",
+	pages = "482--526"
+}
+
+@book{harriscampbell95syntax,
+	author = "Alice Harris and Lyle Campbell",
+	title = " Historical Syntax in a Cross-linguistic Perspective",
+	year = "1995",
+	publisher = "Cambridge University Press",
+	address = "Cambridge"
+}
+
+@misc{haspelmath05universalscaus,
+	author = "Martin Haspelmath",
+	title = "Universals of causative verb formation",
+	year = "2005",
+	url = "http://email.eva.mpg.de/~haspelmt/5.CausativeVerbs.pdf",
+	note = "Handout from LSA Institute, MIT"
+}
+
+@inproceedings{haspelmath93typologyinch,
+	author = "Martin Haspelmath",
+	editor = "Bernard Comrie \& Maria Polinsky",
+	title = "More on the typology of inchoative/causative verb alternations",
+	booktitle = "Causatives and transitivity",
+	year = "1993",
+	pages = "87--120",
+	publisher = "John Benjamins",
+	address = "Amsterdam"
+}
+
+@article{hcf:2002,
+	title = "The language faculty: What is it, who has it, and how did it evolve?",
+	author = "Marc D. Hauser and Noam Chomsky and Tecumseh Fitch",
+	journal = "Science",
+	year = "2002",
+	volume = "298",
+	pages = "1569--1579"
+}
+
+@book{hdgc:2005,
+	editor = "M. Haspelmath and M.S. Dryer and D. Gil and B. Comrie",
+	title = "World atlas of language structures",
+	year = "2005",
+	publisher = "Oxford University Press",
+	address = "Oxford"
+}
+
+@book{heck08onpiping,
+	author = "Fabian Heck",
+	title = "On pied-piping: WH-movement and beyond",
+	year = "2008",
+	publisher = "Mouton de Gruyter",
+	address = "Berlin/New York"
+}
+
+@article{heck09oncertain,
+	title = "On certain properties of pied-piping",
+	author = "Fabian Heck",
+	journal = "Linguistic Inquiry",
+	year = "2009",
+	volume = "40",
+	number = "1",
+	pages = "75--111"
+}
+
+@unpublished{heckmuller06derivational,
+	author = {Fabian Heck and Gereon M{\"u}ller},
+	title = "Derivational optimization of Wh-movement",
+	year = "2006",
+	note = {\textsc{M}s., Univeristy of T{\"u}bingen},
+	url = "http://www.uni-leipzig.de/~muellerg/"
+}
+
+@inproceedings{heckmuller06extremely,
+	author = {Fabian Heck and Gereon M{\"u}ller},
+	editor = "Erin Bainbridge and Brian Agbayani",
+	title = "Extremely local optimization",
+	booktitle = "Proceedings of WECOL 34",
+	year = "2006",
+	month = "",
+	pages = "170--182",
+	organization = "",
+	address = "University of Fresno, CA",
+	publisher = ""
+}
+
+@inproceedings{heckmuller:2000,
+	author = {Fabian Heck and Gereon M{\"u}ller},
+	editor = "Roger Billerey and Brook Danielle Lillehaugen",
+	title = "Successive cyclicity, long-distance superiority, and local optimization",
+	booktitle = "WCCFL 19: Proceedings of the 19th West Coast Conference on Formal Linguistics",
+	year = "2000",
+	month = "",
+	pages = "218--231",
+	organization = "",
+	address = "Sommerville, MA",
+	publisher = "Cascadilla Press"
+}
+
+@book{heimkratzer98semantics,
+	author = "Irene Heim and Angelika Kratzer",
+	title = "Semantics in generative grammar",
+	year = "1998",
+	publisher = "Blackwell",
+	address = "Oxford"
+}
+
+@inproceedings{hirst00spuriouscontext,
+	author = "Graeme Hirst",
+	editor = "",
+	title = "Context as a spurious concept",
+	booktitle = "Proceedings of the Conference on Intelligent Text Processing and Computational Linguistics",
+	year = "2000",
+	month = "February",
+	pages = "273--287",
+	organization = "",
+	publisher = "",
+	url = "http://ftp.cs.toronto.edu/pub/gh/Hirst-CICLing-2000.pdf"
+}
+
+@article{hn:2008,
+	title = "Adjunction, labeling, and bare phrase structure",
+	author = "Norbert Hornstein and Jairo Nunes",
+	journal = "Biolinguistics",
+	year = "2008",
+	volume = "2",
+	number = "1",
+	pages = "57--86"
+}
+
+@book{hng:2005,
+	author = "Norbert Hornstein and Jairo Nunes and Kleanthes K. Grohmann",
+	title = "Understanding Minimalism",
+	year = "2005",
+	publisher = "Cambridge University Press",
+	address = "Cambridge"
+}
+
+@article{hornnunes08adjunction,
+	title = "Adjunction, labeling, and bare phrase structure",
+	author = "Norbert Hornstein and Jairo Nunes",
+	journal = "Biolinguistics",
+	year = "2008",
+	volume = "2",
+	number = "",
+	pages = "57--86"
+}
+
+@book{hornstein93astime,
+	author = "Norbert Hornstein",
+	title = "As time goes by",
+	year = "1993",
+	publisher = "MIT Press",
+	address = "Cambridge, MA"
+}
+
+@book{hornstein:1992,
+	author = "Norbert Hornstein",
+	title = "As time goes by: Tense and Universal Grammar",
+	year = "1992",
+	publisher = "MIT Press",
+	address = "Cambridge, MA."
+}
+
+@article{idsardi:2008,
+	title = "Combinatorics for metrical feet",
+	author = "William J. Idsardi",
+	journal = "Biolinguistics",
+	year = "2008",
+	volume = "2",
+	number = "2.2-3",
+	pages = "233--236"
+}
+
+@article{ince:2006,
+	title = "Pseudo-sluicing in Turkish",
+	author = "Atakan Ince",
+	editor = "Nina Kazanina and Utako Minai and Philip J. Monahan and Heather L. Taylor",
+	journal = "University of Maryland Working Papers in Linguistics",
+	year = "2006",
+	volume = "14",
+	number = "",
+	pages = "111--126"
+}
+
+@book{infantidou01evdrelevance,
+	author = "Elly Infantidou",
+	title = "Evidentials and relevance",
+	year = "2001",
+	publisher = "John Benjamins",
+	address = "Amsterdam"
+}
+
+@book{jackendoff:1977,
+	author = "Ray Jackendoff",
+	title = "X'-syntax",
+	year = "1977",
+	publisher = "MIT Press",
+	address = "Cambridge, MA."
+}
+
+@inproceedings{jakobson57shifters,
+	author = "Roman Jakobson",
+	editor = "Linda R. Waugh and Monique Monville-Burston",
+	title = "Shifters and verbal categories",
+	booktitle = "On language",
+	year = "1990 [1957]",
+	pages = "386--392",
+	publisher = "Harvard University Press",
+	address = "Cambridge, MA"
+}
+
+@article{jayaseelan:2008,
+	title = "Bare phrase structure and specifier-less syntax",
+	author = "K.A. Jayaseelan",
+	journal = "Biolinguistics",
+	year = "2008",
+	volume = "2",
+	number = "1",
+	pages = "87--106"
+}
+
+@article{jelinek:1984,
+	title = "Empty categories, case, and configurationality",
+	author = "Eloise Jelinek",
+	journal = "Natural Language and Linguistic Theory",
+	year = "1984",
+	volume = "2",
+	number = "",
+	pages = "39--46"
+}
+
+@inproceedings{johnson:2000,
+	author = "Lars Johanson",
+	editor = "Lars Johanson and Bo Utas",
+	title = "Turkic indirectives",
+	booktitle = "Evidentials: Turkic, Iranian and neighboring languages",
+	year = "2000",
+	pages = "61--88",
+	publisher = "Mouton de Gruyter",
+	address = "Berlin"
+}
+
+@book{johnsonutas:2000,
+	editor = "Lars Johnson and Bo Utas",
+	title = "Evidentials: Turkic, Iranian and neighboring languages",
+	year = "2000",
+	publisher = "Mouton de Gruyter",
+	address = "Berlin"
+}
+
+@book{jonesjones:1991,
+	author = "Wendell Jones and Paula Jones",
+	title = "Barasano Syntax",
+	year = "1991",
+	publisher = "Summer Institute of Linguistics and the University of Texas, Arlington ",
+	address = "Dallas"
+}
+
+@article{jp:2005,
+	title = "The faculty of language: What's special about it?",
+	author = "Steven Pinker and Ray Jackendoff",
+	journal = "Cognition",
+	year = "2005",
+	volume = "95",
+	number = "2",
+	pages = "201--236"
+}
+
+@book{kager99ot,
+	author = "Ren{\`e} Kager",
+	title = "Optimality Theory",
+	year = "1999",
+	publisher = "Cambridge University Press",
+	address = "Cambridge"
+}
+
+@inproceedings{kandybowicz:2006,
+	author = "Jason Kandybowicz",
+	editor = "Norbert Corver and Jairo Nunes",
+	title = "On fusion and multiple copy spell-out",
+	booktitle = "The copy theory of movement on the PF sid",
+	year = "2006",
+	pages = "119--150",
+	publisher = "MIT Press",
+	address = "Cambridge, MA."
+}
+
+@mastersthesis{karn:1976,
+	author = "Gloria Jean Karn",
+	title = "Tuyuca plot structure: A pilot study",
+	school = "University of Texas, Arlington",
+	year = "1976"
+}
+
+@article{karn:1979,
+	title = "Estructura de la Trama en Tuyuca",
+	author = "Gloria Jean Karn",
+	journal = "Estudios Tucanos",
+	year = "1979",
+	volume = "5",
+	number = "",
+	pages = "1--87 "
+}
+
+@article{karttunen:presuppcontext,
+	title = "Presupposition and Linguistic Context",
+	author = "Lauri Karttunen",
+	journal = "Linguistic Inquiry",
+	pages = "181--194",
+	year = "1973"
+}
+
+@book{katz:1998,
+	author = "Jerrold Katz",
+	title = "Realistic rationalism",
+	year = "1998",
+	publisher = "MIT Press",
+	address = "Cambridge, MA."
+}
+
+@book{kauffman:1995,
+	author = "Stuart Kauffman",
+	title = "At home in the universe: The search for laws of self-organization and complexity",
+	year = "1995",
+	publisher = "Oxford University Press",
+	address = "Oxford"
+}
+
+@phdthesis{kaye:1970,
+	author = "Jonathan D. Kaye",
+	title = "The Desano verb: problems in semantics, syntax and phonology",
+	school = "Department of Philosophy, Columbia University",
+	year = "1970"
+}
+
+@book{kayne94antisymm,
+	author = "Richard Kayne",
+	title = "The antisymmetry of syntax",
+	year = "1994",
+	publisher = "MIT Press",
+	address = "Cambridge, MA."
+}
+
+@article{kemenade:2007,
+	title = "Formal syntax and language change: Developments and outlook",
+	author = "Ans {van Kemenade}",
+	journal = "Diachronica",
+	year = "2007",
+	volume = "24",
+	number = "",
+	pages = "155--169"
+}
+
+@book{kleene:1967,
+	author = "Stephen Kleene",
+	title = "Mathematical logic",
+	year = "2002 [1967]",
+	publisher = "Dover",
+	address = "New York"
+}
+
+@book{korfhage:1974,
+	author = "Robert R. Korfhage",
+	title = "Discrete computational structures",
+	year = "1974",
+	publisher = "Academic Press",
+	address = "New York"
+}
+
+@article{kornaipullum90xbar,
+	author = "Andras Kornai and Geoffrey K. Pullum",
+	title = "The X-bar theory of phrase structure",
+	journal = "Language",
+	volume = "66",
+	number = "1",
+	pages = "24--50",
+	year = "1990",
+	url = "citeseer.ist.psu.edu/kornai90xbar.html"
+}
+
+@inproceedings{kozintseva:2000,
+	author = "Natalia Kozintseva",
+	editor = "Lars Johanson and Bo Utas",
+	title = "Perfect forms as a means of expressing evidentiality in Modern Eastern Armenian languages",
+	booktitle = "Evidentials: Turkic, Iranian and neighboring languages",
+	year = "2000",
+	pages = "401--418",
+	publisher = "Mouton de Gruyter",
+	address = "Berlin"
+}
+
+@inproceedings{kratzer08situations,
+	author = "Angelika Kratzer",
+	editor = "Edward N. Zalta",
+	title = "Situations in natural languages semantics",
+	booktitle = "The Stanford Encyclopedia of Philosophy",
+	year = "2008",
+	publisher = "Metaphysics Research Lab, CSLI",
+	address = "Stanford University",
+	url = "http://plato.stanford.edu/entries/situations-semantics/"
+}
+
+@article{kremer06cantorspace,
+	title = "The modal logic of continuous functions on cantor space",
+	author = "Philip Kremer",
+	journal = "Mathematical Logic",
+	year = "2006",
+	volume = "45",
+	number = "",
+	pages = "1021--1032"
+}
+
+@article{langesoare,
+	title = "Computability of homogeneous models",
+	author = "Karen Lange and Robert I. Soare",
+	journal = "",
+	year = "2006",
+	volume = "",
+	number = "",
+	pages = ""
+}
+
+@book{langpostal:1984,
+	author = "Terence Langendoen and Paul Postal",
+	title = "The vastness of natural languages",
+	year = "1984",
+	publisher = "Basil Blackwell",
+	address = "Oxford"
+}
+
+@inproceedings{lasnik01derivation,
+	author = "Howard Lasnik",
+	editor = "Mark Baltin and Chris Collins",
+	title = "Derivation and representation in modern transformational syntax",
+	booktitle = "The handbook of contemporary syntactic theory",
+	year = "2001",
+	pages = "67--88",
+	publisher = "Blackwell",
+	address = "Oxford"
+}
+
+@article{legate01config,
+	title = "The configurational structure of a non-configurational language",
+	author = "Julie~Ann Legate",
+	journal = "Linguistic Variation Yearbook 2001",
+	year = "2003",
+	volume = "1",
+	number = "",
+	pages = "61--104"
+}
+
+@inproceedings{legendre03otsyntax,
+	author = "Geraldine Legendre",
+	editor = "William Frawley",
+	title = "Optimality Theory in syntax",
+	booktitle = "International Encyclopedia of Linguistics",
+	year = "2003",
+	pages = "",
+	publisher = "Oxford University Press",
+	address = "Oxford"
+}
+
+@book{lightfoot:1991,
+	author = "David Lightfoot",
+	title = "How to Set Parameters: Arguments from Language Change",
+	year = "1991",
+	publisher = "MIT Press",
+	address = "Cambridge, MA."
+}
+
+@book{livio:2002,
+	author = "Mario Livio",
+	title = "The Golden Ratio: The story of phi, the world's most astonishing number",
+	year = "2002",
+	publisher = "Broadway Books",
+	address = "New York"
+}
+
+@book{livio:2005,
+	author = "Mario Livio",
+	title = "The equation that couldn't be solved: How mathematic genius discovered the language of symmetry",
+	year = "2005",
+	publisher = "Simon and Schuster Paperbacks",
+	address = "New York"
+}
+
+@article{lloyd:2000,
+	title = "Ultimate physical limits to computation",
+	author = "Seth Lloyd",
+	journal = "Nature",
+	volume = "406",
+	year = "2000",
+	pages = "1047--1054",
+	note = "Cornell arXive; arXiv:quant-ph/9908043v3",
+	url = "http://arxiv.org/"
+}
+
+@book{lloyd:2006,
+	author = "Seth Lloyd",
+	title = "Programmaing the universe: A quntum computer scientist takes on the cosmos",
+	year = "2006",
+	publisher = "Random House",
+	address = "New York"
+}
+
+@book{lub:2005,
+	author = "Howard Lasnik and Juan Uriagereka and Cedric Boeckx",
+	title = "A course in minimalist syntax",
+	year = "2005",
+	publisher = "Blackwell",
+	address = "Oxford"
+}
+
+@article{malone:1988,
+	title = "The origin and development of Tuyuca evidentials",
+	author = "Terrell Malone",
+	journal = "International Journal of American Linguistics",
+	year = "1988",
+	volume = "54",
+	number = "",
+	pages = "119--140"
+}
+
+@book{mathbook,
+	author = "Graninio A. Korn and Theresa M. Korn",
+	title = "Mathematical Handbook for Scientists and Engineers",
+	year = "2000",
+	publisher = "Dover Publications Inc.",
+	address = "New York",
+	note = "Unabridged republication of 1968 edition, published by McGraw-Hill, Inc."
+}
+
+@unpublished{mattdavisrullman:2006,
+	author = "Lisa Matthewson and Henry Davis and Hotze Rullman",
+	title = "Evidentials as epistemic modals: Evidence from St'at'imcets",
+	year = "2006",
+	note = "\textsc{M}s., University of British Columbia"
+}
+
+@misc{mccarthy96logicaicontext,
+	author = "John McCarthy",
+	title = "A logical \textsc{AI} approach to context",
+	year = "1996",
+	note = "\textsc{U}npublished note, Stanford University",
+	url = "http://www-formal.stanford.edu/jmc/"
+}
+
+@misc{mccloskey07language,
+	author = "James McCloskey",
+	title = "A language at the edge: Irish and the theory of grammar",
+	year = "2007",
+	note = "\textsc{M}s., University of California, Santa Cruz "
+}
+
+@article{mccreadyogataevdprob07,
+	title = "Evidentiality, modality, and probability",
+	author = "Eric MCcready and Norry Ogata",
+	journal = "Linguistics and Philosophy",
+	year = "2007",
+	volume = "30",
+	number = "2",
+	pages = "147--206",
+	doi = "10.1007/s10988-007-9017-7"
+}
+
+@article{mcginnis:1997,
+	title = "Case and locality in L-syntax: Evidence from Georgian",
+	author = "Martha McGinnis",
+	journal = "MIT Occasional Papers in Linguistics",
+	year = "1997",
+	volume = "32",
+	number = "",
+	pages = ""
+}
+
+@phdthesis{mcready05dynamics,
+	author = "Eric Mcready",
+	title = "The dynamics of particles",
+	school = "University of Texas, Austin",
+	year = "2005"
+}
+
+@article{medeiros:2008,
+	title = "Optimal growth in phrase structure",
+	author = "David Medeiros",
+	journal = "Biolinguistics",
+	year = "2008",
+	volume = "2",
+	number = "2-3",
+	pages = "152--195"
+}
+
+@article{metzger:1998,
+	title = "The morpheme \textsc{KA}- of \textsc{C}arapana (\textsc{T}ukanoan)",
+	author = "Ronald G. Metzger",
+	journal = "SIL Electronic Working Papers",
+	url = "www.sil.org/silewp/1998/003/silewp1998-003.pdf",
+	year = "1998",
+	volume = "003",
+	number = "",
+	pages = "14--34"
+}
+
+@book{miller:1999,
+	author = "Marion Miller",
+	title = "Desano grammar",
+	year = "1999",
+	publisher = "Summer Institute of Linguistics and the University of Texas at Arlington",
+	address = "Dallas"
+}
+
+@unpublished{milne:2008,
+	author = "James S. Milne",
+	title = "Group theory",
+	year = "2008",
+	note = "Lecture Notes, Univeristy of Michigan"
+}
+
+@book{mithun:1999,
+	author = "Marianne Mithun",
+	title = "The languages of Native North America",
+	year = "1999",
+	publisher = "Cambridge University Press",
+	address = "Cambridge"
+}
+
+@article{mithun:2003,
+	title = "Pronouns and agreement: The information status of pronominal affixes",
+	author = "Marianne Mithun",
+	journal = "Transactions of the Philological Society",
+	year = "2003",
+	volume = "101",
+	number = "",
+	pages = "235--278"
+}
+
+@book{morsemaxwell:1999,
+	author = "Nancy L. Morse and Michael B. Maxwell",
+	title = "Cubeo grammar",
+	year = "1999",
+	publisher = "Summer Institute of Linguistics and the University of Texas at Arlington",
+	address = "Dallas"
+}
+
+@article{muller97partial,
+	title = "Partial Wh-movement and optimality theory",
+	author = "Fabian Heck",
+	journal = "Linguistic Inquiry",
+	year = "2009",
+	volume = "40",
+	number = "1",
+	pages = "75--111"
+}
+
+@misc{murray09hamblinevd,
+	title = "A \textsc{H}amblin Semantics for Evidentials",
+	author = "Sarrah E. Murray",
+	year = "2009",
+	note = "Slides from SALT 19, OSU",
+	date = "April 3",
+	url = "http://www.rci.rutgers.edu/~semurray/index.shtml"
+}
+
+@misc{murray09quevd,
+	title = "Evidentials and Questions in \textsc{C}heyenne",
+	author = "Sarrah E. Murray",
+	year = "2009",
+	note = "Slides from SULA 5, Harvard/MIT",
+	date = "May 16",
+	url = "http://www.rci.rutgers.edu/~semurray/index.shtml"
+}
+
+@misc{nevins07piraha,
+	author = "Andrew Nevins and David Pesetsky and Celine Rodrigues",
+	title = "Pirah{\~a} exceptionality: A reassessment",
+	year = "2007",
+	url = "http://ling.auf.net/lingBuzz"
+}
+
+@book{niyogi:2006,
+	author = "Partha Niyogi",
+	title = "The computational nature of language learning and evolution",
+	year = "2006",
+	publisher = "MIT Press",
+	address = "Cambridge, MA."
+}
+
+@misc{ota,
+	author = "OTA",
+	title = "Oxford \textsc{T}ext \textsc{A}rchive",
+	year = "2009",
+	publisher = "Oxford University",
+	url = "http://ota.ahds.ac.uk/"
+}
+
+@book{palmer:2001,
+	author = "F.R. Palmer",
+	title = "Mood and Modality",
+	year = "2001 [1986]",
+	publisher = "Cambridge University Press",
+	address = "Cambridge"
+}
+
+@book{papafragou00mod,
+	author = "Anna Papafragou",
+	title = "Modality: Issues at the semantics-pragmatics interface",
+	year = "2000",
+	publisher = "Elsevier Science",
+	address = "Oxford"
+}
+
+@article{parisetaldiscourse09,
+	title = "Discourse planning for information composition and delivery: A reusable platform",
+	author = "C{\`e}cile Paris and Nathalie Colineau and Andrew Lampert and Keith Vander Linden",
+	journal = "Natural Language Engineering",
+	year = "2009",
+	volume = "16",
+	number = "1",
+	pages = "61--98",
+	doi = "10.1017/S1351324909990192"
+}
+
+@inproceedings{parker06recursion,
+	author = "Anna R. Parker-Kinsella",
+	title = "Evolving the narrow language faculty: was recursion the pivotal step?",
+	year = "2006",
+	pages = "239--246",
+	booktitle = "Proceedings of the 6th International Conference on the Evolution of Language"
+}
+
+@book{parsons90events,
+	author = "Terence Parsons",
+	title = "Events in the semantics of English: A study in subatomic semantics",
+	year = "1990",
+	publisher = "MIT Press",
+	address = "Cambridge, MA."
+}
+
+@article{parsons96argument,
+	title = "What is an Argument",
+	author = "Terrence Parsons",
+	journal = "The Journal of Philosophy",
+	year = "1996",
+	volume = "93",
+	number = "",
+	pages = "164--185",
+	url = "http://admin.cdh.ucla.edu/facwebpage.php?par=91"
+}
+
+@unpublished{partee08symmetry,
+	author = "Barbara Partee",
+	title = "Symmetry and symmetrical predicates",
+	year = "2008",
+	url = "http://people.umass.edu/partee/",
+	note = "\textsc{H}andout, University of Massachusetts, Amherst"
+}
+
+@article{partee:1973,
+	title = "Some structural analogies between tenses and pronouns in English",
+	author = "Barbara Partee",
+	journal = "Journal of Philosophy",
+	year = "1973",
+	volume = "70",
+	number = "",
+	pages = "601--609"
+}
+
+@book{penrose:1996,
+	author = "Roger Penrose",
+	title = "Shadows of the mind: A search for the missing science of consciousness",
+	year = "1996",
+	publisher = "Oxford University Press",
+	address = "Oxford"
+}
+
+@book{penrose:1999,
+	author = "Roger Penrose",
+	title = "The emperor's new mind: Concerning computers, minds, and the laws of physics",
+	year = "1999",
+	publisher = "Oxford University Press",
+	address = "Oxford"
+}
+
+@phdthesis{pesetsky82paths,
+	author = "David Pesetsky",
+	title = "Paths and Categories",
+	school = "MIT",
+	address = "Cambridge, MA",
+	year = "1982"
+}
+
+@inproceedings{pestor:2001,
+	author = "David Pesetsky and Esther Torrego",
+	editor = "Michael Kenstowicz",
+	title = "T-to-C movement: causes and consequences",
+	booktitle = "Ken Hale: a life in language",
+	year = "2001",
+	pages = "355--426",
+	publisher = "MIT Press",
+	address = "Cambridge, MA."
+}
+
+@inproceedings{pestor:2004,
+	author = "David Pesetsky and Esther Torrego",
+	editor = "Jacqueline Gueron and {Jacqueline Lecarme}",
+	title = "Tense, Case, and the nature of categories",
+	booktitle = "The syntax of time",
+	year = "2004",
+	pages = "495--537",
+	publisher = "MIT Press",
+	address = "Cambridge, MA."
+}
+
+@article{pietroski08minmeaning,
+	title = "Minimalist meaning, internalist interpretation",
+	author = "Paul Pietroski",
+	journal = "Biolinguistics",
+	year = "2008",
+	volume = "2",
+	number = "4",
+	pages = "317--341"
+}
+
+@book{pmw:1990,
+	author = "Barbara Partee and Alice {ter Meulen} and Robert E. Wall",
+	title = "Mathematical methods in linguistics",
+	year = "1990",
+	edition = "Second",
+	publisher = "Kluwer Academic Publishers",
+	address = "Dordrecht"
+}
+
+@book{popper:1959,
+	author = "Karl R. Popper",
+	title = "The logic of scientific discovery",
+	year = "1959",
+	edition = "Second",
+	publisher = "Basic Books",
+	address = "New York"
+}
+
+@article{post:1936,
+	title = "Finite combinatory processes-formulation 1",
+	author = "Emil L. Post",
+	journal = "Journal of Symbolic Logic",
+	year = "1936",
+	volume = "1",
+	pages = "103--105"
+}
+
+@article{post:1944,
+	title = "Recursively enumerable sets of positive integers and their decision problem",
+	author = "Emil L. Post",
+	journal = "Bulletin of the American Mathematical Society",
+	year = "1944",
+	volume = "50",
+	pages = "284--316"
+}
+
+@article{postal09incoherence,
+	title = "The incoherence of Chomsky's `Biolinguistic' perspective",
+	author = "Paul Postal",
+	journal = "Biolinguistics",
+	year = "2009",
+	volume = "3",
+	number = "1",
+	pages = "104--123"
+}
+
+@article{potts07ci,
+	title = "Into the conventional-implicature dimension",
+	author = "Christopher Potts",
+	journal = "The Philosophy Compass",
+	year = "2007",
+	volume = "4",
+	number = "2",
+	pages = "665--679"
+}
+
+@article{ppuri:2008,
+	title = "Still a bridge too far? Biolinguistic questions for grounding language on brains",
+	author = "Massimo Piattelli-Palmarini and Juan Uriagereka",
+	journal = "Physics of Life Reviews",
+	year = "2008",
+	volume = "5",
+	pages = "207--224"
+}
+
+@techreport{prsmol:1993,
+	author = "Alan Prince and Paul Smolensky",
+	title = "Optimality Theory: Constraint interaction in generative grammar",
+	year = "1993",
+	institution = "Rutgers University Center for Cognitive Science",
+	address = "New Brunsqick, NJ."
+}
+
+@inproceedings{pullumscholz01contrasting,
+	author = "Geoffrey K. Pullum and Barbara C. Scholz",
+	editor = "Phillipe {de Groot} and Glyn Morril and Christian Retor{\`e}",
+	title = "Contrasting applications of logic in natural language syntactic description",
+	booktitle = "Logic, methodology and philosophy of science: Proceedings of the twelfth international congress",
+	year = "2001",
+	pages = "17--43",
+	publisher = "Springer-Verlag",
+	address = "Berlin"
+}
+
+@inproceedings{pullumscholz03contrasting,
+	author = "Geoffrey K. Pullum and Barbara C. Scholz",
+	editor = {Petr H{\`a}jek and Luis Vald{\`e}s-Villanueva and Dag Westerst{\"a}hl},
+	title = "Contrasting applications of logic in natural language syntactic description",
+	booktitle = "Logic, methodology and philosophy of science: Proceedings of the twelfth international congress",
+	year = "2003",
+	pages = "481--503",
+	publisher = "King's College Publications",
+	address = "London"
+}
+
+@inproceedings{pullumscholz09recursion,
+	author = "Geoffrey K. Pullum and Barbara C. Scholz",
+	editor = "Harry {van der Hulst}",
+	title = "Recursion and the infinitude claim",
+	booktitle = "Recursion in human language",
+	year = "2009",
+	pages = "",
+	publisher = "Mouton de Gruyter",
+	address = "Berlin"
+}
+
+@book{quine:1953,
+	author = "Willard Quine",
+	title = "From a logical point of view",
+	year = "1953",
+	publisher = "Harvard University Press",
+	address = "Cambridge, MA."
+}
+
+@book{quine:1960,
+	author = "Willard Quine",
+	title = "Word and Object",
+	year = "1960",
+	publisher = "MIT Press",
+	address = "Cambridge, MA."
+}
+
+@book{reichenbach47elements,
+	author = "Hans Reichenbach",
+	title = "Elements of symbolic logic",
+	year = "1947",
+	publisher = "The Macmillan company",
+	address = "New York"
+}
+
+@book{rice00scope,
+	author = "Keren Rice",
+	title = "Morpheme order and semantic scope",
+	year = "2000",
+	publisher = "Cambridge University Press",
+	address = "Cambridge"
+}
+
+@book{riechenbach:1947,
+	author = "Hans Reichenbach",
+	title = "Elements of symbolic logic",
+	year = "1947",
+	publisher = "MacMillan",
+	address = "New York"
+}
+
+@inproceedings{rizzi97fine,
+	author = "Luigi Rizzi",
+	editor = "Liliane Haegeman",
+	title = "The fine structure of the left periphery",
+	booktitle = "Elements of grammar",
+	year = "1997",
+	pages = "281--338",
+	publisher = "Kluwer Publications",
+	address = "Dordrecht"
+}
+
+@book{roberts:2007,
+	author = "Ian Roberts",
+	title = "Diachronic syntax",
+	year = "2007",
+	publisher = "Oxford University Press",
+	address = "Oxford"
+}
+
+@article{rooryck01evd,
+	title = "Evidentiality, Part \textsc{i}, \textsc{ii}",
+	author = "Johan Rooryck",
+	journal = "GLOT International",
+	year = "2001",
+	volume = "5",
+	number = "",
+	pages = "125--133"
+}
+
+@book{rosen:1995,
+	author = "Joe Rosen",
+	title = "Symmetry in science: An introduction to the general theory",
+	year = "1995",
+	publisher = "Springer-Verlag",
+	address = "New York"
+}
+
+@unpublished{rubin:2002,
+	author = "Edward J. Rubin",
+	title = "The structure of modifiers",
+	year = "2002",
+	note = "\textsc{M}s., University of Utah"
+}
+
+@article{rubin:2003,
+	title = "Determining pair-merge",
+	author = "Edward J. Rubin",
+	journal = "Linguistic Inquiry",
+	year = "2003",
+	volume = "34",
+	number = "",
+	pages = "660--668"
+}
+
+@article{schlenker09localcontext,
+	title = "Local contexts",
+	author = "Phillipe Schlenker",
+	journal = "Semantics and Pragmatics",
+	year = "2009",
+	volume = "2",
+	number = "3",
+	pages = "1--78",
+	doi = "10.3765/sp.2.3"
+}
+
+@article{scholzpullum07origins,
+	author = "Barbara C. Scholz and Geoffrey K. Pullum",
+	title = "Tracking the origins of transformational generative grammar: Review of Tomalin (2006)",
+	journal = "Journal of Linguistics",
+	volume = "43",
+	number = "3",
+	pages = "701--723",
+	year = "2007"
+}
+
+@inproceedings{schroeder:2000,
+	author = "Christoph Schroeder",
+	editor = "Lars Johanson and Bo Utas",
+	title = "Between resultative, historical and inferential: non-finite -mIs forms in Turkish",
+	booktitle = "Evidentials: Turkic, Iranian and neighboring languages",
+	year = "2000",
+	pages = "115--146",
+	publisher = "Mouton de Gruyter",
+	address = "Berlin"
+}
+
+@book{siewirska:2004,
+	author = "Anna Siewirska",
+	title = "Person",
+	year = "2004",
+	publisher = "Cambridge University Press",
+	address = "Cambridge"
+}
+
+@book{silvthomp,
+	author = "Silvanus P. Thompson",
+	title = "Calculus Made Easy",
+	year = "1986",
+	publisher = "St. Martin's Press",
+	address = "New York"
+}
+
+@article{simons07obs,
+	title = "Observations on embedding verbs, evidentiality, and presupposition",
+	author = "Mandy Simons",
+	journal = "Lingua",
+	year = "2007",
+	volume = "117",
+	number = "6",
+	pages = "1034--1056"
+}
+
+@article{soare:1996,
+	title = "Computability and recursion",
+	author = "Robert I. Soare",
+	journal = "Bulletin of Symbolic Logic",
+	year = "1996",
+	volume = "2",
+	pages = "284--321"
+}
+
+@inproceedings{soare:2007,
+	author = "Robert I. Soare",
+	editor = "S. B. Cooper and B. Lowe and Andrea Sorbi",
+	title = "Computability and incomputability: Computation and logic in the real world",
+	booktitle = "Proceedings of the Third Conference on Computability in Europe, CiE 2007, Siena, Italy: Lecture notes in computer science No. 4497",
+	year = "2007",
+	month = "June 18-23",
+	publisher = "Springer-Verlag",
+	address = "Heidelberg"
+}
+
+@unpublished{soare:2008,
+	author = "Robert I. Soare",
+	title = "Incomputability, Turing functionals, and open computing",
+	year = "2008",
+	pages = "1--53",
+	note = "\textsc{M}s., Department of Mathematics, Univeristy of Chicago"
+}
+
+@unpublished{soare:2009,
+	author = "Robert I. Soare",
+	title = "Turing Oracle machines, online computing, and three displacements in computability theory",
+	year = "2009",
+	pages = "1--70",
+	note = "\textsc{M}s., Department of Mathematics, Univeristy of Chicago"
+}
+
+@article{soschen:2008,
+	title = "On the nature of syntax",
+	author = "Alona Soschen",
+	journal = "Biolinguistics",
+	year = "2008",
+	volume = "2",
+	number = "2-3",
+	pages = "196--224"
+}
+
+@article{speas04evdlogophor,
+	title = " Evidentiality, logophoricity and the syntactic representation of pragmatic features",
+	author = "Margaret Speas",
+	journal = "Lingua",
+	year = "2004",
+	volume = "114",
+	number = "3",
+	pages = "255--276"
+}
+
+@article{speas04evdparadigms,
+	title = "Evidential paradigms, world variables and person agreement features",
+	author = "Margaret Speas",
+	journal = "Italian Journal of Linguistics",
+	year = "2004",
+	volume = "16",
+	number = "1",
+	pages = "104--135"
+}
+
+@unpublished{speas07evdfunctional,
+	author = "Margaret Speas",
+	title = "Evidentials as generalized functional heads",
+	year = "2007",
+	note = "\textsc{M}s., University of Massachusetts, Amherst"
+}
+
+@article{speas08synsemevd,
+	title = "On the syntax and semantics of evidentials",
+	author = {Peggy Speas},
+	journal = {Language and Linguistics Compass},
+	year = {2008},
+	volume = {2},
+	number = {5},
+	pages = {940-965}
+}
+
+@inproceedings{speastenny03configpov,
+	author = "Margaret Speas and Carol Tenny",
+	editor = "Anna DiScuillo",
+	title = "Configurational properties of point of view roles",
+	booktitle = "Asymmetry in Grammar",
+	year = "2003",
+	pages = "315--344",
+	publisher = "Benjamins",
+	address = "Amsterdam"
+}
+
+@misc{stabler04tpg,
+	author = "Edward Stabler",
+	title = "Tupled pregroup grammars",
+	year = "2004",
+	note = "\textsc{D}raft., University California Los Angeles",
+	url = "http://www.linguistics.ucla.edu/people/stabler/epspub.htm"
+}
+
+@phdthesis{stenzel04wanano,
+	author = "Kristine Stenzel",
+	title = "A reference grammar of Wanano",
+	school = "University of Colorado, Boulder",
+	year = "2004"
+}
+
+@book{stewart:2007,
+	author = "Ian Stewart",
+	title = "Why beauty is truth: a history of symmetry",
+	year = "2007",
+	publisher = "Basic Books",
+	address = "New York"
+}
+
+@book{strom:1992,
+	author = "Clay Strom",
+	title = "Retuara syntax",
+	year = "1992",
+	publisher = "Summer Institute of Linguistics and the University of Texas at Arlington",
+	address = "Dallas"
+}
+
+@inproceedings{sumbatova:1999,
+	author = "Nina Sumbatova",
+	editor = "Werner Abraham and Leonid Kulikov",
+	title = "Evidentiality, transitivity and split ergativity: Evidence from Svan",
+	booktitle = "Tense-Aspect, transitivity and causativity",
+	year = "1999",
+	pages = "63--96",
+	publisher = "John Benjamins",
+	address = "Amsterdam"
+}
+
+@book{tarski:1956,
+	author = "Alfred Tarski",
+	title = "Logic, semantics, metamathematics",
+	year = "1956",
+	publisher = "Oxford University Press",
+	address = "Oxford"
+}
+
+@book{tessmol:2000,
+	author = "Bruce Tesar and Paul Smolensky",
+	title = "Learnability in Optimality Theory",
+	year = "2000",
+	publisher = "MIT Press",
+	address = "Cambridge, MA."
+}
+
+@book{theysay,
+	author = "Gerald Graff and Cathy Birkenstein",
+	title = "They {S}ay, {I} {S}ay",
+	year = "2006",
+	publisher = "Norton",
+	address = "New York"
+}
+
+@book{tomalin:2006,
+	author = "Marcus Tomalin",
+	title = "Formal foundations of generative grammar",
+	year = "2006",
+	publisher = "Cambridge University Press",
+	address = "Cambridge"
+}
+
+@book{tompayne:1997,
+	author = "Thomas E. Payne",
+	title = "Describing Morphosyntax: A guide for field linguists",
+	year = "1997",
+	publisher = "Cambridge University Press",
+	address = "Cambridge"
+}
+
+@article{traugott89epistemic,
+	title = "On the rise of epistemic meanings in English: An example of subjectification in semantic change",
+	author = "Elizabeth Closs Traugott",
+	journal = "Language",
+	year = "1989",
+	volume = "65",
+	number = "1",
+	pages = "31--55"
+}
+
+@article{turing:1936,
+	title = "On computable numbers, with an application to the \textsc{E}ntscheidungsproblem",
+	author = "Alan M. Turing",
+	journal = "Proceedings of the London Mathematical Society",
+	year = "1936",
+	volume = "42",
+	pages = "230--265"
+}
+
+@book{uriagereka:1998,
+	author = "Juan Uriagereka",
+	title = "Rhyme and reason: An introduction to minimalist syntax",
+	year = "1998",
+	publisher = "MIT Press",
+	address = "Cambridge, MA."
+}
+
+@article{vangelderen01force,
+	title = "The force of \textsc{F}orce\textsc{P}",
+	author = "Elly {van Gelderen}",
+	journal = "Southwest Journal of Linguistics",
+	year = "2001",
+	volume = "20",
+	number = "2",
+	pages = "107--120"
+}
+
+@article{vangelderen05cpsplit,
+	title = "The \textsc{CP} and split \textsc{CP} cross-linguistically",
+	author = "Elly {van Gelderen}",
+	journal = "WORD",
+	year = "2005",
+	volume = "55",
+	number = "3",
+	pages = "369--403"
+}
+
+@unpublished{vonfintelgillies09must,
+	author = "Kai {von Fintel} and Anthony S. Gillies",
+	title = "\textsl{Must} {\l}dots Stay {\l}dots Strong!",
+	year = "2009",
+	note = "\textsc{M}s., draft version of July 17, 2009, MIT, and Rutgers University",
+	url = "http://mit.edu/fintel/fintel-gillies-2009-mss.pdf"
+}
+
+@book{walker:2000,
+	author = "Rachel Walker",
+	title = "Nasalization, Neutral Segments, and Opacity Effects",
+	year = "2000",
+	publisher = "Garland Press [Published Doctoral dissertation 1998, University of California, Santa Cruz]",
+	address = "New York"
+}
+
+@inproceedings{waltzwheeler:1972,
+	author = "Nathan Waltz and Alva Wheeler",
+	editor = "Esther Matteson",
+	title = "Proto-Tukanoan",
+	booktitle = "Comparative Studies in Amerindian Languages",
+	year = "1972",
+	pages = "119--149",
+	publisher = "Mouton",
+	address = "The Hague"
+}
+
+@article{willett88evd,
+	title = "A cross-linguistic survey of the grammaticization of evidentiality",
+	author = "Thomas L. Willett",
+	journal = "Language",
+	year = "1988",
+	volume = "12",
+	number = "",
+	pages = "51--97"
+}
+
+@inproceedings{woodbury:1986,
+	author = "Anthony Woodbury",
+	editor = "Wallace Chafe and Johanna Nichols",
+	title = "Interactions of Tense and Evidentiality: A study of Sherpa and English",
+	booktitle = "Evidentiality: The linguistic encoding of epistemology",
+	year = "1986",
+	publisher = "Ablex Publishing Corp",
+	address = "Norwood"
+}
+
+@article{zeschgurevychsemrelate09,
+	title = "Wisdom of crowds versus wisdom of linguists --- measuring the semantic relatedness fo words",
+	author = "Torsten Zesch and Iryna Gurevych",
+	journal = "Natural Language Engineering",
+	year = "2009",
+	volume = "16",
+	number = "1",
+	pages = "25--59",
+	doi = "10.1017/S1351324909990167"
+}
+
