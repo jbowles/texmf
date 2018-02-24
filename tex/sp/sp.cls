@@ -281,7 +281,7 @@
       }{}% closes \ifthenelse
       \begin{minipage}[c]{5.25in}
         \href{http://semprag.org/}{Semantics \& Pragmatics} Volume \@spvolume, Article \@sparticle: 1--\@splastpage, \@spyear\\
-        doi:~\href{http://dx.doi.org/10.3765/sp.\@spvolume.\@sparticle}{10.3765/sp.\@spvolume.\@sparticle}
+        doi:~\href{https://doi.org/10.3765/sp.\@spvolume.\@sparticle}{10.3765/sp.\@spvolume.\@sparticle}
       \end{minipage}%
     }%
     \renewcommand{\@oddfoot}{%
@@ -324,7 +324,7 @@
       }{}% closes \ifthenelse
       \begin{minipage}[c]{5.25in}
         \href{http://semprag.org/}{Semantics \& Pragmatics} Volume \@spvolume, Article \@sparticle: 1--\@splastpage, \@spyear\\
-        doi:~\href{http://dx.doi.org/\@spdoi}{\@spdoi}
+        doi:~\href{https://doi.org/\@spdoi}{\@spdoi}
       \end{minipage}%
       \gdef\@articlenumber{\@sparticle}
     }%
@@ -442,7 +442,7 @@
 
 \bibpunct[: ]{(}{)}{;}{a}{}{,}
 \newcommand{\BIBand}{\&}
-\providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{doi:#1}}
+\providecommand{\doi}[1]{\href{https://doi.org/#1}{doi:#1}}
 \setlength{\bibsep}{0pt}
 \setlength{\bibhang}{0.25in}
 \bibliographystyle{sp}
